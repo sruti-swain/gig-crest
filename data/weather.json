@@ -1,0 +1,6002 @@
+[
+  {
+    "zoneId": "zone_001",
+    "temperature": 25.580177348768835,
+    "rainfall": 0,
+    "aqi": 247.4977880817935,
+    "windSpeed": 10.732264910063819,
+    "visibility": 8.036472443458946,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 39.54019684570727,
+    "rainfall": 0,
+    "aqi": 83.97317824946606,
+    "windSpeed": 21.10752787920906,
+    "visibility": 5.6693922569307045,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 26.33420171343183,
+    "rainfall": 0,
+    "aqi": 213.55089755724964,
+    "windSpeed": 15.889942820128491,
+    "visibility": 6.755901905770674,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 31.923150532779054,
+    "rainfall": 0,
+    "aqi": 116.51203329742144,
+    "windSpeed": 8.695531848423066,
+    "visibility": 7.614922181255235,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 39.28197878903074,
+    "rainfall": 25.921378536936036,
+    "aqi": 161.60632460491001,
+    "windSpeed": 22.165913629962976,
+    "visibility": 4.052940730265108,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 31.754930456518625,
+    "rainfall": 0,
+    "aqi": 323.5739763901821,
+    "windSpeed": 19.262590627179424,
+    "visibility": 6.823132297660539,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 33.97190101753351,
+    "rainfall": 0,
+    "aqi": 70.96473693780776,
+    "windSpeed": 20.459241461686652,
+    "visibility": 6.518410938176999,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 29.01256692398458,
+    "rainfall": 0,
+    "aqi": 320.68694247378124,
+    "windSpeed": 23.112254472010648,
+    "visibility": 8.339748188700268,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 30.61877092529814,
+    "rainfall": 0,
+    "aqi": 54.16945007920118,
+    "windSpeed": 20.54761617320974,
+    "visibility": 8.184331899200927,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 39.6732782796126,
+    "rainfall": 0,
+    "aqi": 273.6749225699668,
+    "windSpeed": 17.80209183666389,
+    "visibility": 7.345623694538258,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 37.75831130404133,
+    "rainfall": 0,
+    "aqi": 265.4467194214177,
+    "windSpeed": 12.15150695175636,
+    "visibility": 8.993519975245325,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 29.602500424699286,
+    "rainfall": 0,
+    "aqi": 87.67892818994021,
+    "windSpeed": 21.301955431446373,
+    "visibility": 7.867910665587138,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 38.763118099053315,
+    "rainfall": 0,
+    "aqi": 104.56823638763277,
+    "windSpeed": 24.98677594657481,
+    "visibility": 3.522471316104852,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 29.18159341574512,
+    "rainfall": 0,
+    "aqi": 231.833988221499,
+    "windSpeed": 12.75506965600426,
+    "visibility": 8.043627951481998,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 27.409309525189904,
+    "rainfall": 0,
+    "aqi": 207.23143927366544,
+    "windSpeed": 7.247911761236376,
+    "visibility": 9.170955179586024,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 26.817630948880424,
+    "rainfall": 0,
+    "aqi": 121.91459127058893,
+    "windSpeed": 23.930133183539873,
+    "visibility": 2.941776101256993,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 34.094282626266526,
+    "rainfall": 0,
+    "aqi": 179.5867728072692,
+    "windSpeed": 16.897913957889298,
+    "visibility": 3.6158902846887457,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 29.01153135719307,
+    "rainfall": 0,
+    "aqi": 139.38357076062013,
+    "windSpeed": 8.853471196447856,
+    "visibility": 3.911592722853383,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 35.59149215505728,
+    "rainfall": 4.770550121092388,
+    "aqi": 122.62985576386995,
+    "windSpeed": 20.180210842243028,
+    "visibility": 3.4331501216016935,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 39.27607734839181,
+    "rainfall": 30.70984911186725,
+    "aqi": 85.80460546023876,
+    "windSpeed": 23.591960503681953,
+    "visibility": 6.966707637893544,
+    "timestamp": "2026-04-03T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 29.208023320656807,
+    "rainfall": 0,
+    "aqi": 56.90008516665317,
+    "windSpeed": 20.08721078979557,
+    "visibility": 2.334572606868212,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 26.21806241137331,
+    "rainfall": 0,
+    "aqi": 235.5681233413201,
+    "windSpeed": 22.104118150332862,
+    "visibility": 6.414299763607026,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 33.82699564826878,
+    "rainfall": 0,
+    "aqi": 55.064931721495626,
+    "windSpeed": 15.776846099916387,
+    "visibility": 9.780368288446091,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 37.56656882894987,
+    "rainfall": 5.193669599013129,
+    "aqi": 321.81370638558684,
+    "windSpeed": 21.732309267754136,
+    "visibility": 4.936192915478408,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 29.892931899619278,
+    "rainfall": 0,
+    "aqi": 98.32297988296992,
+    "windSpeed": 21.585209262230627,
+    "visibility": 2.5203503884978513,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 28.348841651785122,
+    "rainfall": 0,
+    "aqi": 321.3760865665422,
+    "windSpeed": 20.915166550316734,
+    "visibility": 6.454238543939624,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 27.46497410708725,
+    "rainfall": 0,
+    "aqi": 168.24564601064492,
+    "windSpeed": 21.415712983598063,
+    "visibility": 2.2184712291606186,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 36.04636742076478,
+    "rainfall": 0,
+    "aqi": 320.7161748351657,
+    "windSpeed": 16.233033734235566,
+    "visibility": 4.503153058982111,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 37.21496235334032,
+    "rainfall": 27.882091083440574,
+    "aqi": 168.57674347183695,
+    "windSpeed": 10.08787791191506,
+    "visibility": 2.468377272779046,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 27.19967856825855,
+    "rainfall": 17.813788248419815,
+    "aqi": 237.61358945020126,
+    "windSpeed": 14.725927182649574,
+    "visibility": 2.6028202145694674,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 31.583476882120948,
+    "rainfall": 0,
+    "aqi": 176.71568986415838,
+    "windSpeed": 11.779588101131765,
+    "visibility": 3.481431087505541,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 31.746374442114167,
+    "rainfall": 0,
+    "aqi": 179.13735737528071,
+    "windSpeed": 22.257498696052327,
+    "visibility": 9.619123701364884,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 28.193872750216492,
+    "rainfall": 0,
+    "aqi": 145.44531097621748,
+    "windSpeed": 11.952393602914269,
+    "visibility": 8.968766058095277,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 31.36826679568732,
+    "rainfall": 0,
+    "aqi": 173.75811193395904,
+    "windSpeed": 21.994922360733135,
+    "visibility": 5.259452672189518,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 29.45730565470995,
+    "rainfall": 48.46155855822667,
+    "aqi": 115.22335268935275,
+    "windSpeed": 16.161182535992626,
+    "visibility": 2.340948773983042,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 29.844249793787903,
+    "rainfall": 0,
+    "aqi": 152.83401676216795,
+    "windSpeed": 19.36304421795502,
+    "visibility": 7.011247874309072,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 34.543619230797525,
+    "rainfall": 0,
+    "aqi": 124.99663008327487,
+    "windSpeed": 15.780169797900072,
+    "visibility": 9.983330046585131,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 33.10848770369558,
+    "rainfall": 0,
+    "aqi": 165.5601633190994,
+    "windSpeed": 21.57742738814835,
+    "visibility": 8.703461051670336,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 30.135965941589156,
+    "rainfall": 0,
+    "aqi": 152.4637947803875,
+    "windSpeed": 10.737486504762908,
+    "visibility": 3.428036882271229,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 26.607609686972797,
+    "rainfall": 0,
+    "aqi": 205.4526369248314,
+    "windSpeed": 8.838734452133199,
+    "visibility": 9.986731805241222,
+    "timestamp": "2026-04-02T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 29.674887369430305,
+    "rainfall": 0,
+    "aqi": 109.950187900927,
+    "windSpeed": 16.78369545991673,
+    "visibility": 6.99094794051843,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 31.65885115582506,
+    "rainfall": 2.4008963637062286,
+    "aqi": 211.77180102890517,
+    "windSpeed": 19.016414668683574,
+    "visibility": 5.2476552947241935,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 38.11269410401227,
+    "rainfall": 0,
+    "aqi": 292.9189932821357,
+    "windSpeed": 22.895084367492203,
+    "visibility": 8.772598218141896,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 39.283814084086224,
+    "rainfall": 0,
+    "aqi": 345.62538978877024,
+    "windSpeed": 16.30866627555625,
+    "visibility": 7.302114267582235,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 28.72008983575872,
+    "rainfall": 40.210867252108415,
+    "aqi": 213.68057931280208,
+    "windSpeed": 20.701352494932543,
+    "visibility": 7.876276013862595,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 27.840676190409347,
+    "rainfall": 4.509162071080752,
+    "aqi": 313.3937496220724,
+    "windSpeed": 22.40019598442986,
+    "visibility": 5.419425320116368,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 39.62675861859782,
+    "rainfall": 0,
+    "aqi": 239.22624962415352,
+    "windSpeed": 24.877120181278315,
+    "visibility": 4.531076490573106,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 34.087283389092036,
+    "rainfall": 0,
+    "aqi": 87.18111330126789,
+    "windSpeed": 18.106034889924835,
+    "visibility": 9.217908257659179,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 27.542638329507426,
+    "rainfall": 0,
+    "aqi": 261.1684035366571,
+    "windSpeed": 16.789527483302994,
+    "visibility": 9.018117674654132,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 25.37199277548077,
+    "rainfall": 0,
+    "aqi": 276.7045487461138,
+    "windSpeed": 16.250813504786755,
+    "visibility": 8.485678311385671,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 37.592028147316974,
+    "rainfall": 22.847792065075602,
+    "aqi": 85.50435234573217,
+    "windSpeed": 18.726865695898773,
+    "visibility": 3.803225071349914,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 35.562778950689285,
+    "rainfall": 25.337606020035174,
+    "aqi": 268.0409520527818,
+    "windSpeed": 9.390249285084153,
+    "visibility": 6.567586005080948,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 39.799047716933444,
+    "rainfall": 0,
+    "aqi": 114.24793204790143,
+    "windSpeed": 9.040638623138406,
+    "visibility": 8.83444964828576,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 25.541419760882487,
+    "rainfall": 0,
+    "aqi": 288.88246698509914,
+    "windSpeed": 17.82567137896342,
+    "visibility": 5.378447591039608,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 39.64309488801119,
+    "rainfall": 20.67373645175614,
+    "aqi": 348.15758796669803,
+    "windSpeed": 9.159502112649797,
+    "visibility": 8.102091819345114,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 37.82462866499465,
+    "rainfall": 0,
+    "aqi": 209.95692397070616,
+    "windSpeed": 12.384718082047122,
+    "visibility": 7.90184537371719,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 35.409855832976966,
+    "rainfall": 0,
+    "aqi": 282.3204213170379,
+    "windSpeed": 6.141377537276287,
+    "visibility": 2.3347661572802654,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 29.869835389877423,
+    "rainfall": 0,
+    "aqi": 288.05566203514013,
+    "windSpeed": 21.504519630822788,
+    "visibility": 4.513541489969473,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 31.29118187664683,
+    "rainfall": 0,
+    "aqi": 152.38756108123204,
+    "windSpeed": 19.298437635935407,
+    "visibility": 4.941018813396724,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 32.09601204851304,
+    "rainfall": 0,
+    "aqi": 105.50849248279121,
+    "windSpeed": 10.64809980925856,
+    "visibility": 2.9737095543696928,
+    "timestamp": "2026-04-01T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 37.982868926635525,
+    "rainfall": 0,
+    "aqi": 148.96907161683242,
+    "windSpeed": 5.105579021154472,
+    "visibility": 7.779725007221881,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 29.395591523604043,
+    "rainfall": 18.769948400620518,
+    "aqi": 335.6215516983036,
+    "windSpeed": 17.25894942220158,
+    "visibility": 9.20470289088555,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 27.287983950809583,
+    "rainfall": 0,
+    "aqi": 349.6509714193652,
+    "windSpeed": 6.719692396830088,
+    "visibility": 2.841499281540413,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 39.663677746467584,
+    "rainfall": 0,
+    "aqi": 141.84805332739163,
+    "windSpeed": 11.620474100067511,
+    "visibility": 7.299922657279311,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 32.29894073009734,
+    "rainfall": 0,
+    "aqi": 223.13050046775382,
+    "windSpeed": 13.62850838688284,
+    "visibility": 3.59706288142975,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 30.857841213536847,
+    "rainfall": 5.823860692461458,
+    "aqi": 175.6026168536668,
+    "windSpeed": 18.8660997852061,
+    "visibility": 4.271703475384108,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 30.831310401261526,
+    "rainfall": 0,
+    "aqi": 128.4923820661321,
+    "windSpeed": 20.351843122503922,
+    "visibility": 6.538368311711816,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 37.66884306599188,
+    "rainfall": 0,
+    "aqi": 271.2795426041837,
+    "windSpeed": 22.974346342833577,
+    "visibility": 9.40601798238835,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 28.42663858499202,
+    "rainfall": 23.684362988288964,
+    "aqi": 251.64311532337692,
+    "windSpeed": 22.47725020072092,
+    "visibility": 6.024951887909438,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 26.68017732796076,
+    "rainfall": 0,
+    "aqi": 247.0129362724476,
+    "windSpeed": 15.638230878818122,
+    "visibility": 3.445683533185788,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 29.22209369764262,
+    "rainfall": 0,
+    "aqi": 200.58280383017018,
+    "windSpeed": 6.303127342313122,
+    "visibility": 9.356637461934733,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 25.563313865719557,
+    "rainfall": 0,
+    "aqi": 104.56488412844674,
+    "windSpeed": 21.839352554323284,
+    "visibility": 4.10791657283883,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 34.594800262106595,
+    "rainfall": 0,
+    "aqi": 53.608866446076405,
+    "windSpeed": 23.746658455998734,
+    "visibility": 4.449493059933705,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 29.273860296734068,
+    "rainfall": 0,
+    "aqi": 343.56821115804365,
+    "windSpeed": 6.585498998417849,
+    "visibility": 8.938659849582093,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 39.63848686488517,
+    "rainfall": 0,
+    "aqi": 84.2065571947935,
+    "windSpeed": 18.800575466904323,
+    "visibility": 5.227234642267369,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 30.779984667463594,
+    "rainfall": 0,
+    "aqi": 228.2583461222845,
+    "windSpeed": 11.77283425514133,
+    "visibility": 3.2874707267407572,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 32.64042256795912,
+    "rainfall": 0,
+    "aqi": 107.33994692224742,
+    "windSpeed": 17.06405647068365,
+    "visibility": 8.22344248607621,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 35.79662602202783,
+    "rainfall": 0,
+    "aqi": 173.04310338645934,
+    "windSpeed": 6.883855256141076,
+    "visibility": 7.926359941348702,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 26.50793743335288,
+    "rainfall": 0,
+    "aqi": 227.68533990522343,
+    "windSpeed": 20.29321647577369,
+    "visibility": 8.984504267080334,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 37.916937024799104,
+    "rainfall": 0,
+    "aqi": 133.59886612926115,
+    "windSpeed": 14.121081992848525,
+    "visibility": 2.7090159853959754,
+    "timestamp": "2026-03-31T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 28.73836344406333,
+    "rainfall": 0,
+    "aqi": 233.82515011715168,
+    "windSpeed": 15.542621676399783,
+    "visibility": 3.913856651888297,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 34.41192884529133,
+    "rainfall": 0,
+    "aqi": 225.46436502653034,
+    "windSpeed": 23.028793403810205,
+    "visibility": 9.899737893437763,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 33.67821137014572,
+    "rainfall": 30.099528922399564,
+    "aqi": 254.20732812670687,
+    "windSpeed": 18.59866524398189,
+    "visibility": 6.553528375565268,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 35.98294768139783,
+    "rainfall": 0,
+    "aqi": 180.6645161741647,
+    "windSpeed": 11.766179226562073,
+    "visibility": 7.511982476240878,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 30.926218357851212,
+    "rainfall": 0,
+    "aqi": 181.61488930461275,
+    "windSpeed": 18.743609801643007,
+    "visibility": 6.1638959445183925,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 31.69452788715988,
+    "rainfall": 0,
+    "aqi": 295.0310620292124,
+    "windSpeed": 13.487429710224061,
+    "visibility": 2.7059094128612546,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 27.96714237371249,
+    "rainfall": 0,
+    "aqi": 280.93257877721635,
+    "windSpeed": 11.96050292548922,
+    "visibility": 4.271894293441015,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 39.76364001417583,
+    "rainfall": 0,
+    "aqi": 73.99621752432641,
+    "windSpeed": 11.485811389302434,
+    "visibility": 4.1078348310834905,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 34.50522785756643,
+    "rainfall": 0,
+    "aqi": 193.1218077303788,
+    "windSpeed": 19.285165900661553,
+    "visibility": 6.470423951586723,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 29.49397228705007,
+    "rainfall": 0,
+    "aqi": 206.6856556395185,
+    "windSpeed": 10.596841426059465,
+    "visibility": 3.1543616313700085,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 26.27330445852291,
+    "rainfall": 47.63778588994923,
+    "aqi": 347.94974952982034,
+    "windSpeed": 5.683004903613265,
+    "visibility": 9.038684095816444,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 27.502959041684502,
+    "rainfall": 0,
+    "aqi": 108.16318393004514,
+    "windSpeed": 13.835951943571168,
+    "visibility": 7.282629883662203,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 39.24667507790645,
+    "rainfall": 0,
+    "aqi": 207.00149097897872,
+    "windSpeed": 17.888099471544592,
+    "visibility": 7.007850175004535,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 38.29112511861877,
+    "rainfall": 0,
+    "aqi": 93.34533055289798,
+    "windSpeed": 16.424677903098214,
+    "visibility": 7.180173944728011,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 37.53448286615284,
+    "rainfall": 0,
+    "aqi": 201.93811314217587,
+    "windSpeed": 9.83529204777103,
+    "visibility": 6.6398755618525716,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 37.783033463897695,
+    "rainfall": 46.13677752239027,
+    "aqi": 61.55906943125766,
+    "windSpeed": 19.547069965296927,
+    "visibility": 4.024089765440664,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 32.43156704218555,
+    "rainfall": 0,
+    "aqi": 69.78928236067571,
+    "windSpeed": 7.888980310144675,
+    "visibility": 7.997295900951464,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 38.05384863530432,
+    "rainfall": 0,
+    "aqi": 177.08610107209824,
+    "windSpeed": 6.214094489876576,
+    "visibility": 7.267421526699751,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 36.86402635759855,
+    "rainfall": 0,
+    "aqi": 147.47749528781586,
+    "windSpeed": 20.836473278118774,
+    "visibility": 2.899391671135273,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 39.98920171735187,
+    "rainfall": 0,
+    "aqi": 198.4034815922923,
+    "windSpeed": 14.677475915314634,
+    "visibility": 4.489426891632048,
+    "timestamp": "2026-03-30T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 38.749432332363675,
+    "rainfall": 0,
+    "aqi": 144.005701404352,
+    "windSpeed": 9.103320128031083,
+    "visibility": 9.5315671775126,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 32.47879575571603,
+    "rainfall": 0,
+    "aqi": 298.75532729183425,
+    "windSpeed": 10.550532648025488,
+    "visibility": 3.1490361375361235,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 36.87424778058708,
+    "rainfall": 0,
+    "aqi": 110.90244616287607,
+    "windSpeed": 7.9839378436364505,
+    "visibility": 6.199488236273059,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 26.10810762315213,
+    "rainfall": 0,
+    "aqi": 96.14247139420793,
+    "windSpeed": 7.977959208494623,
+    "visibility": 5.7287258731730315,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 25.44716418904646,
+    "rainfall": 0,
+    "aqi": 141.1406913972155,
+    "windSpeed": 12.799132066297592,
+    "visibility": 3.335913675576638,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 26.87238098091266,
+    "rainfall": 46.47130427221159,
+    "aqi": 160.29126701341323,
+    "windSpeed": 21.446462585017464,
+    "visibility": 3.5597016717065024,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 34.3553939234955,
+    "rainfall": 47.919568716787175,
+    "aqi": 228.59512125687417,
+    "windSpeed": 15.34455993528061,
+    "visibility": 8.225462776511296,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 27.01698430721612,
+    "rainfall": 0,
+    "aqi": 64.28702853085835,
+    "windSpeed": 6.792763334627332,
+    "visibility": 8.555124085397699,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 32.60298480470329,
+    "rainfall": 17.801678521637644,
+    "aqi": 63.72352309746046,
+    "windSpeed": 13.170350119626896,
+    "visibility": 6.580587333846044,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 39.345700248385214,
+    "rainfall": 0,
+    "aqi": 227.63021771072428,
+    "windSpeed": 20.746304683349702,
+    "visibility": 8.670575661291895,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 35.16617422088346,
+    "rainfall": 0,
+    "aqi": 96.68251277723527,
+    "windSpeed": 12.099684157046644,
+    "visibility": 2.4605593216996056,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 33.164295323949894,
+    "rainfall": 0,
+    "aqi": 242.84153068889145,
+    "windSpeed": 16.745281471266633,
+    "visibility": 8.812037390252762,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 37.73318753796351,
+    "rainfall": 0,
+    "aqi": 293.59059415619095,
+    "windSpeed": 20.60491485914094,
+    "visibility": 8.11127357156577,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 36.86806465551827,
+    "rainfall": 6.666655557323697,
+    "aqi": 82.32454847916995,
+    "windSpeed": 6.102858108160527,
+    "visibility": 4.953969281375974,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 35.3881005324731,
+    "rainfall": 0,
+    "aqi": 192.9514421772999,
+    "windSpeed": 10.618073934606386,
+    "visibility": 5.996289498943067,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 28.423283712880338,
+    "rainfall": 28.650587508594285,
+    "aqi": 174.9781332011172,
+    "windSpeed": 24.891953529169967,
+    "visibility": 8.922580993699139,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 28.337045506957608,
+    "rainfall": 0,
+    "aqi": 268.4973970128952,
+    "windSpeed": 19.734300513037063,
+    "visibility": 9.537937133993394,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 36.02610339533818,
+    "rainfall": 0,
+    "aqi": 64.80597983887483,
+    "windSpeed": 14.611315623291997,
+    "visibility": 6.414469699948295,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 35.411286260357954,
+    "rainfall": 0,
+    "aqi": 81.39567658932887,
+    "windSpeed": 16.29758268413919,
+    "visibility": 4.335400346350683,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 35.81810245177026,
+    "rainfall": 0,
+    "aqi": 279.7976398163843,
+    "windSpeed": 7.032313580921046,
+    "visibility": 7.214493247771129,
+    "timestamp": "2026-03-29T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 29.10368498536479,
+    "rainfall": 0,
+    "aqi": 111.5253105896697,
+    "windSpeed": 16.149889609354126,
+    "visibility": 5.292464090221815,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 39.20816555779899,
+    "rainfall": 0,
+    "aqi": 205.21165539008658,
+    "windSpeed": 21.13344742509176,
+    "visibility": 2.563017222863749,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 28.342949563262,
+    "rainfall": 0,
+    "aqi": 72.60828505249543,
+    "windSpeed": 18.71114476351,
+    "visibility": 3.998999130881451,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 29.37037501633398,
+    "rainfall": 0,
+    "aqi": 239.48688793534515,
+    "windSpeed": 23.813819471459546,
+    "visibility": 7.719940090239231,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 35.52619866436994,
+    "rainfall": 0,
+    "aqi": 130.55916881040397,
+    "windSpeed": 10.334645133077164,
+    "visibility": 2.7837573062052847,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 39.233350789024975,
+    "rainfall": 0,
+    "aqi": 347.5093144944435,
+    "windSpeed": 21.109369680921105,
+    "visibility": 7.076266831195801,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 39.656486965567346,
+    "rainfall": 49.527793418811505,
+    "aqi": 238.8462446754815,
+    "windSpeed": 13.798871450819178,
+    "visibility": 5.680010453870564,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 25.855855429375545,
+    "rainfall": 0,
+    "aqi": 268.95832760225494,
+    "windSpeed": 17.380986293021984,
+    "visibility": 6.978371875994137,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 32.1761611092232,
+    "rainfall": 0,
+    "aqi": 120.3676559681766,
+    "windSpeed": 22.86091293365489,
+    "visibility": 6.999498633335392,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 35.23811310906748,
+    "rainfall": 0,
+    "aqi": 256.63200592139253,
+    "windSpeed": 18.336753071388614,
+    "visibility": 7.7626501415070415,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 37.96368088522322,
+    "rainfall": 8.822209320540452,
+    "aqi": 340.0486547016172,
+    "windSpeed": 17.82410262672837,
+    "visibility": 8.444514861756165,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 38.8361564714156,
+    "rainfall": 0,
+    "aqi": 261.6756605006492,
+    "windSpeed": 14.289099987764793,
+    "visibility": 7.991398327026044,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 34.51000169203526,
+    "rainfall": 0,
+    "aqi": 335.67150762741477,
+    "windSpeed": 14.083854019641354,
+    "visibility": 6.848232375994842,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 28.70766904309395,
+    "rainfall": 14.734230022522565,
+    "aqi": 187.1423061752775,
+    "windSpeed": 18.39746614028806,
+    "visibility": 7.23188636102824,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 33.33286614714527,
+    "rainfall": 0,
+    "aqi": 122.61594836027041,
+    "windSpeed": 20.683553993347388,
+    "visibility": 4.446406107401538,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 26.772073978458714,
+    "rainfall": 0,
+    "aqi": 73.02664083903854,
+    "windSpeed": 13.961572415217294,
+    "visibility": 7.606657812298517,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 30.75826759174176,
+    "rainfall": 0,
+    "aqi": 76.61280958195862,
+    "windSpeed": 21.56219876255712,
+    "visibility": 5.092642455305663,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 38.68989529561938,
+    "rainfall": 0,
+    "aqi": 284.8745162768231,
+    "windSpeed": 17.227950188434384,
+    "visibility": 8.47372971384104,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 33.65518048480353,
+    "rainfall": 0,
+    "aqi": 239.6858588173731,
+    "windSpeed": 5.505892328704558,
+    "visibility": 4.774665830401034,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 35.9303180423247,
+    "rainfall": 0,
+    "aqi": 152.00726056597978,
+    "windSpeed": 24.767429781754515,
+    "visibility": 5.923603860665372,
+    "timestamp": "2026-03-28T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 26.678588289169898,
+    "rainfall": 0,
+    "aqi": 77.26599323798649,
+    "windSpeed": 21.547662828278828,
+    "visibility": 4.003561513825277,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 39.92721097365569,
+    "rainfall": 0,
+    "aqi": 310.5528920442477,
+    "windSpeed": 20.449134867177587,
+    "visibility": 7.008740170604639,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 36.476565567880705,
+    "rainfall": 0,
+    "aqi": 185.83132812975654,
+    "windSpeed": 13.457344991422161,
+    "visibility": 2.993284226878732,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 35.18738007869388,
+    "rainfall": 14.114130989133866,
+    "aqi": 119.64368792204148,
+    "windSpeed": 23.674890065142552,
+    "visibility": 3.3725643140554435,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 36.31776515722606,
+    "rainfall": 12.328989344471253,
+    "aqi": 256.2220785644216,
+    "windSpeed": 20.154765407690736,
+    "visibility": 2.6491045757360254,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 33.304563186967876,
+    "rainfall": 0,
+    "aqi": 299.8828335837809,
+    "windSpeed": 10.805801629362918,
+    "visibility": 5.803487684078156,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 28.534075131506995,
+    "rainfall": 0,
+    "aqi": 255.04304373573984,
+    "windSpeed": 12.600491825687396,
+    "visibility": 5.606057870516906,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 39.66758652003289,
+    "rainfall": 0,
+    "aqi": 242.04678289593676,
+    "windSpeed": 8.547769975887478,
+    "visibility": 6.346779844032591,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 36.506190985779156,
+    "rainfall": 0,
+    "aqi": 154.55768583510203,
+    "windSpeed": 13.756571942037002,
+    "visibility": 4.542142363095937,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 34.82924197717463,
+    "rainfall": 0,
+    "aqi": 277.109942905225,
+    "windSpeed": 13.752948197897595,
+    "visibility": 3.0421119355291033,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 35.0438713624456,
+    "rainfall": 0,
+    "aqi": 272.529949022667,
+    "windSpeed": 11.899353687433457,
+    "visibility": 9.965235811787412,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 33.71413265875252,
+    "rainfall": 0,
+    "aqi": 177.37420022263132,
+    "windSpeed": 19.00912030998867,
+    "visibility": 9.91725362363012,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 38.12547864882639,
+    "rainfall": 0,
+    "aqi": 292.91065576072856,
+    "windSpeed": 22.442622111336572,
+    "visibility": 9.461460371852777,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 38.84779787032161,
+    "rainfall": 17.577775254306726,
+    "aqi": 272.3481898256681,
+    "windSpeed": 23.919577807278145,
+    "visibility": 6.372642295370515,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 39.1637829539214,
+    "rainfall": 0,
+    "aqi": 118.64465698408773,
+    "windSpeed": 23.507219925294528,
+    "visibility": 7.750966483499035,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 34.589993296782936,
+    "rainfall": 0,
+    "aqi": 347.056053150233,
+    "windSpeed": 13.11070326611793,
+    "visibility": 7.387972082124898,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 37.7497572973757,
+    "rainfall": 0,
+    "aqi": 71.10260306636334,
+    "windSpeed": 21.655226945898804,
+    "visibility": 6.672847102070767,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 36.17635725592267,
+    "rainfall": 0,
+    "aqi": 143.21518710232118,
+    "windSpeed": 15.491551653120652,
+    "visibility": 9.694451570409614,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 27.14293002764603,
+    "rainfall": 0,
+    "aqi": 234.35956186372695,
+    "windSpeed": 7.098636053298599,
+    "visibility": 8.443118369723331,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 35.93013840589643,
+    "rainfall": 0,
+    "aqi": 304.6807255706418,
+    "windSpeed": 19.728069858677713,
+    "visibility": 7.105616356103226,
+    "timestamp": "2026-03-27T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 25.54161683789751,
+    "rainfall": 0,
+    "aqi": 247.38771471400753,
+    "windSpeed": 14.840140325669061,
+    "visibility": 4.063346473539189,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 34.23827463536701,
+    "rainfall": 8.884093105576918,
+    "aqi": 243.51219915289352,
+    "windSpeed": 15.387802242017926,
+    "visibility": 3.33417419865488,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 26.61360748443957,
+    "rainfall": 0,
+    "aqi": 334.34428752859986,
+    "windSpeed": 22.603500990550856,
+    "visibility": 4.43363415473951,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 33.623647538145576,
+    "rainfall": 18.14808355596996,
+    "aqi": 143.67561135529996,
+    "windSpeed": 21.71496338178935,
+    "visibility": 4.939374700468695,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 39.55563387544328,
+    "rainfall": 0,
+    "aqi": 90.12314037316476,
+    "windSpeed": 13.36273850235306,
+    "visibility": 3.7621857352812516,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 30.73324650848926,
+    "rainfall": 14.921390202940144,
+    "aqi": 125.46230511751003,
+    "windSpeed": 21.580495463997504,
+    "visibility": 9.129413070075696,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 33.951909529397305,
+    "rainfall": 0,
+    "aqi": 237.30018535525085,
+    "windSpeed": 13.171153584241232,
+    "visibility": 3.43251691229238,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 30.824315218384427,
+    "rainfall": 0,
+    "aqi": 280.89573960701625,
+    "windSpeed": 22.534545221447647,
+    "visibility": 6.944628459586337,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 26.1053855851489,
+    "rainfall": 0,
+    "aqi": 192.79588659894142,
+    "windSpeed": 17.771517804050177,
+    "visibility": 7.506082931798163,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 25.120638729626652,
+    "rainfall": 0,
+    "aqi": 69.15655367949611,
+    "windSpeed": 9.018650370699714,
+    "visibility": 3.513446879671042,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 31.96698509603959,
+    "rainfall": 39.631821897820515,
+    "aqi": 85.37991794604048,
+    "windSpeed": 12.892457711152453,
+    "visibility": 7.478876905109537,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 29.99704054868647,
+    "rainfall": 0,
+    "aqi": 245.99436109277423,
+    "windSpeed": 11.378902287922742,
+    "visibility": 8.561234621042166,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 26.609943400829625,
+    "rainfall": 0,
+    "aqi": 344.37457510626973,
+    "windSpeed": 16.153011747379864,
+    "visibility": 3.556255594795031,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 38.445286786716565,
+    "rainfall": 0,
+    "aqi": 152.9704576984374,
+    "windSpeed": 7.4409182865951,
+    "visibility": 3.1102251239140806,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 29.933230415001365,
+    "rainfall": 0,
+    "aqi": 175.23665191713144,
+    "windSpeed": 7.802812889438195,
+    "visibility": 4.141378453817445,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 37.66830160741773,
+    "rainfall": 0,
+    "aqi": 230.06101019151325,
+    "windSpeed": 14.70904440331724,
+    "visibility": 9.879380322118184,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 31.304172733427205,
+    "rainfall": 7.114670213560381,
+    "aqi": 311.03144192109636,
+    "windSpeed": 11.524047044363979,
+    "visibility": 5.652340866180589,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 27.752622974934702,
+    "rainfall": 0,
+    "aqi": 96.76594461915863,
+    "windSpeed": 5.227381542729663,
+    "visibility": 7.027684710510687,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 25.597997886922954,
+    "rainfall": 0,
+    "aqi": 224.75421714216208,
+    "windSpeed": 7.09055427952384,
+    "visibility": 5.966448728701957,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 25.146277665490455,
+    "rainfall": 0,
+    "aqi": 300.6587621110646,
+    "windSpeed": 12.214433287115845,
+    "visibility": 3.09971586821343,
+    "timestamp": "2026-03-26T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 39.63842843708953,
+    "rainfall": 0,
+    "aqi": 274.7957243843448,
+    "windSpeed": 16.18713256706969,
+    "visibility": 2.4242927932833,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 36.438464980449865,
+    "rainfall": 0,
+    "aqi": 144.27580672461508,
+    "windSpeed": 22.397547984860697,
+    "visibility": 2.2761740911041883,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 26.185167597332686,
+    "rainfall": 0,
+    "aqi": 94.10382923243867,
+    "windSpeed": 18.901536084693845,
+    "visibility": 4.408708428123928,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 31.673272641105402,
+    "rainfall": 13.737778823357793,
+    "aqi": 87.58595618664229,
+    "windSpeed": 6.340650240222114,
+    "visibility": 9.98652916649649,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 32.231814119712595,
+    "rainfall": 0,
+    "aqi": 208.1503867515415,
+    "windSpeed": 5.230904048703349,
+    "visibility": 4.844624396525505,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 28.48176190599579,
+    "rainfall": 0,
+    "aqi": 328.9318769469662,
+    "windSpeed": 8.161848855677007,
+    "visibility": 4.241462237307704,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 28.542774904311017,
+    "rainfall": 0,
+    "aqi": 341.2103434552295,
+    "windSpeed": 21.986082854725968,
+    "visibility": 5.78977236270849,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 37.610295650773296,
+    "rainfall": 0,
+    "aqi": 195.84676649858898,
+    "windSpeed": 14.370459433084598,
+    "visibility": 4.665540094628689,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 30.412630728893085,
+    "rainfall": 0,
+    "aqi": 194.15171994808873,
+    "windSpeed": 15.134968472451632,
+    "visibility": 2.507705608489065,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 29.846538476662374,
+    "rainfall": 0,
+    "aqi": 214.5788701818525,
+    "windSpeed": 19.76735084778642,
+    "visibility": 3.3626426628818553,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 25.864573589304705,
+    "rainfall": 12.464331568551945,
+    "aqi": 344.8503422303828,
+    "windSpeed": 11.338874301052165,
+    "visibility": 8.149305755264946,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 31.847420119831355,
+    "rainfall": 0,
+    "aqi": 210.5901967987418,
+    "windSpeed": 15.74290425390065,
+    "visibility": 8.089287528075038,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 32.371561908580574,
+    "rainfall": 0,
+    "aqi": 70.21411022078989,
+    "windSpeed": 14.021354797524058,
+    "visibility": 2.95601128346515,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 39.05606003049043,
+    "rainfall": 0,
+    "aqi": 323.79989760489605,
+    "windSpeed": 11.920499193440396,
+    "visibility": 6.085066033659331,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 33.77971466615847,
+    "rainfall": 11.64542627883699,
+    "aqi": 211.96938647536732,
+    "windSpeed": 13.288776536422443,
+    "visibility": 5.738744346626051,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 28.747486115709943,
+    "rainfall": 0,
+    "aqi": 168.1185160132245,
+    "windSpeed": 15.034937036167628,
+    "visibility": 9.374842700662901,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 28.226590803472796,
+    "rainfall": 0,
+    "aqi": 323.8763686939602,
+    "windSpeed": 14.148698013100045,
+    "visibility": 6.3509941979477205,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 31.714305072412273,
+    "rainfall": 0,
+    "aqi": 74.16360723599398,
+    "windSpeed": 6.623191911359267,
+    "visibility": 8.100948107931423,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 33.43771865581951,
+    "rainfall": 0,
+    "aqi": 76.33271588164973,
+    "windSpeed": 5.916959058643827,
+    "visibility": 4.536179829107214,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 39.22694025808286,
+    "rainfall": 0,
+    "aqi": 88.09569929696684,
+    "windSpeed": 15.921839593526421,
+    "visibility": 7.171038680593336,
+    "timestamp": "2026-03-25T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 28.059449381055785,
+    "rainfall": 0,
+    "aqi": 261.5198504417363,
+    "windSpeed": 22.546888352122167,
+    "visibility": 8.62236073259333,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 29.939091926595918,
+    "rainfall": 0,
+    "aqi": 131.10884068574325,
+    "windSpeed": 20.46096564513894,
+    "visibility": 7.881270635452836,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 38.37918451080582,
+    "rainfall": 0,
+    "aqi": 56.103911405711784,
+    "windSpeed": 23.630687463211316,
+    "visibility": 3.318222766319538,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 36.70486691115429,
+    "rainfall": 36.085185658226536,
+    "aqi": 284.45237354640665,
+    "windSpeed": 21.06933770123948,
+    "visibility": 9.854225154808512,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 31.02244671558794,
+    "rainfall": 0,
+    "aqi": 181.1514923689966,
+    "windSpeed": 20.49776113120194,
+    "visibility": 2.950025289605307,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 26.951296283787737,
+    "rainfall": 11.930130540353012,
+    "aqi": 97.31272925063189,
+    "windSpeed": 7.69516042626873,
+    "visibility": 3.5647604174827503,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 38.24775388318902,
+    "rainfall": 0,
+    "aqi": 324.88435242003436,
+    "windSpeed": 23.601395149764585,
+    "visibility": 4.719517065417719,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 34.61858412168509,
+    "rainfall": 0,
+    "aqi": 279.45712751113285,
+    "windSpeed": 22.81405941876266,
+    "visibility": 2.0502645012952065,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 33.85150512603498,
+    "rainfall": 1.1925368983224938,
+    "aqi": 245.34075135390617,
+    "windSpeed": 10.258791185754582,
+    "visibility": 8.094606544467862,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 27.93597047890802,
+    "rainfall": 25.24128166305779,
+    "aqi": 272.3177137538007,
+    "windSpeed": 9.893770238040451,
+    "visibility": 5.052495847393056,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 31.803983154752803,
+    "rainfall": 0,
+    "aqi": 216.0069419450427,
+    "windSpeed": 6.037669040290559,
+    "visibility": 9.119301211815483,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 39.3323196797724,
+    "rainfall": 0,
+    "aqi": 121.4425293515548,
+    "windSpeed": 10.073040401172735,
+    "visibility": 5.608204899120745,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 39.130541850037474,
+    "rainfall": 0,
+    "aqi": 154.0623005125978,
+    "windSpeed": 7.441409193008837,
+    "visibility": 4.105036753471158,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 27.256108782820753,
+    "rainfall": 0,
+    "aqi": 63.264743923194615,
+    "windSpeed": 16.286334184952306,
+    "visibility": 9.563980494318004,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 39.32128217990001,
+    "rainfall": 31.023797835783917,
+    "aqi": 183.81880820247497,
+    "windSpeed": 11.912040008446642,
+    "visibility": 9.98538383003528,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 29.265990736289513,
+    "rainfall": 0,
+    "aqi": 338.47306936835207,
+    "windSpeed": 24.383678662986515,
+    "visibility": 8.512850636104643,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 25.018670243281186,
+    "rainfall": 0,
+    "aqi": 270.07380855339716,
+    "windSpeed": 23.94841498497901,
+    "visibility": 9.88976069250555,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 39.54027825152614,
+    "rainfall": 0,
+    "aqi": 91.34506825130015,
+    "windSpeed": 24.859120554292417,
+    "visibility": 7.024404994010663,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 26.409381527706252,
+    "rainfall": 0,
+    "aqi": 319.98956299027066,
+    "windSpeed": 22.86074072818705,
+    "visibility": 7.877641435475184,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 34.131651692969434,
+    "rainfall": 0,
+    "aqi": 286.5814295978779,
+    "windSpeed": 21.222315823845115,
+    "visibility": 5.586047606654422,
+    "timestamp": "2026-03-24T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 28.161812186550126,
+    "rainfall": 0,
+    "aqi": 165.70646407292776,
+    "windSpeed": 12.469609543181486,
+    "visibility": 8.580529152236723,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 34.04030875727143,
+    "rainfall": 0,
+    "aqi": 347.82633454654723,
+    "windSpeed": 23.41648483099991,
+    "visibility": 5.7335552085318575,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 37.65795815343129,
+    "rainfall": 0,
+    "aqi": 91.03710400407694,
+    "windSpeed": 19.189350504151868,
+    "visibility": 8.600728294382474,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 25.79243794405174,
+    "rainfall": 9.160040966910376,
+    "aqi": 53.79914642832397,
+    "windSpeed": 21.927051445865274,
+    "visibility": 5.918828632450126,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 26.70692871038609,
+    "rainfall": 0,
+    "aqi": 274.8776132284171,
+    "windSpeed": 13.572234229859932,
+    "visibility": 9.605658655023692,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 37.90361629945858,
+    "rainfall": 0,
+    "aqi": 274.42618286608996,
+    "windSpeed": 21.97043878921122,
+    "visibility": 2.240346316405045,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 33.03146781122169,
+    "rainfall": 0,
+    "aqi": 139.61402911059136,
+    "windSpeed": 5.090175754397954,
+    "visibility": 5.520780794164098,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 30.882529769378067,
+    "rainfall": 0,
+    "aqi": 199.19825639875984,
+    "windSpeed": 11.039478098180485,
+    "visibility": 7.904840048091064,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 35.487857930821036,
+    "rainfall": 0,
+    "aqi": 128.06557681423294,
+    "windSpeed": 11.129160533438217,
+    "visibility": 6.860878554724916,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 32.98810726269854,
+    "rainfall": 7.9717961987541885,
+    "aqi": 116.05264353543367,
+    "windSpeed": 15.232285433032477,
+    "visibility": 6.474950990041048,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 39.023080262781804,
+    "rainfall": 0,
+    "aqi": 159.47450531082328,
+    "windSpeed": 8.130552304666763,
+    "visibility": 4.4844648650854015,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 38.44012471111773,
+    "rainfall": 0,
+    "aqi": 146.72130753335784,
+    "windSpeed": 22.88449710492514,
+    "visibility": 4.949755579331557,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 38.59594462340116,
+    "rainfall": 0,
+    "aqi": 61.068529171723874,
+    "windSpeed": 23.79969740898028,
+    "visibility": 2.7912052888839938,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 34.30824243825891,
+    "rainfall": 0,
+    "aqi": 315.81445797633904,
+    "windSpeed": 9.711561992595978,
+    "visibility": 6.691659244601883,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 35.05170704244056,
+    "rainfall": 0,
+    "aqi": 131.86647644845056,
+    "windSpeed": 10.667890272811885,
+    "visibility": 5.780660113955012,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 26.68945224468889,
+    "rainfall": 0,
+    "aqi": 293.3649454869358,
+    "windSpeed": 9.46335849913076,
+    "visibility": 3.3209026933002814,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 36.638692918552685,
+    "rainfall": 32.30248445597811,
+    "aqi": 161.195339928396,
+    "windSpeed": 19.87749164864232,
+    "visibility": 8.16950526042687,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 36.31578694643402,
+    "rainfall": 46.42963980315049,
+    "aqi": 186.1220806864686,
+    "windSpeed": 11.412758338448747,
+    "visibility": 8.822447763471239,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 38.2893879702803,
+    "rainfall": 20.413925810112012,
+    "aqi": 324.50071287896895,
+    "windSpeed": 6.94908025278548,
+    "visibility": 8.639265204714471,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 38.135918690796444,
+    "rainfall": 0,
+    "aqi": 179.81806398346666,
+    "windSpeed": 10.011321405826719,
+    "visibility": 6.32031216050026,
+    "timestamp": "2026-03-23T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 36.803459548917075,
+    "rainfall": 8.405066107375603,
+    "aqi": 349.83742882039456,
+    "windSpeed": 19.658871735103798,
+    "visibility": 9.252818749889785,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 29.926418715517585,
+    "rainfall": 0,
+    "aqi": 102.77146308882068,
+    "windSpeed": 21.484943720997748,
+    "visibility": 3.651881973572907,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 35.941458996852006,
+    "rainfall": 0,
+    "aqi": 281.89996378265045,
+    "windSpeed": 14.066856411077806,
+    "visibility": 2.0232035567074753,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 25.487410106341564,
+    "rainfall": 0,
+    "aqi": 56.41761754013756,
+    "windSpeed": 19.5523647017361,
+    "visibility": 4.4979552657407105,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 32.16510217556956,
+    "rainfall": 0,
+    "aqi": 271.66236097308513,
+    "windSpeed": 16.56940511802391,
+    "visibility": 8.813975286615488,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 31.316918995005768,
+    "rainfall": 0,
+    "aqi": 117.42830326805182,
+    "windSpeed": 22.952357657464827,
+    "visibility": 5.287836750825727,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 26.369690790008825,
+    "rainfall": 0,
+    "aqi": 167.0737430126461,
+    "windSpeed": 16.384665007831444,
+    "visibility": 4.8263594217070995,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 34.30526137140723,
+    "rainfall": 0,
+    "aqi": 105.27175346514359,
+    "windSpeed": 18.02286392967613,
+    "visibility": 4.066963954825667,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 38.33472554810212,
+    "rainfall": 0,
+    "aqi": 205.5238049339252,
+    "windSpeed": 23.120629224117984,
+    "visibility": 3.4678252255435513,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 27.25527274973838,
+    "rainfall": 0,
+    "aqi": 218.88921435172907,
+    "windSpeed": 11.404535180268232,
+    "visibility": 4.531060759358022,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 27.736890649150013,
+    "rainfall": 0,
+    "aqi": 171.3372834034657,
+    "windSpeed": 18.585819844141408,
+    "visibility": 3.9601630748553553,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 25.698955780691087,
+    "rainfall": 0,
+    "aqi": 280.0776877977909,
+    "windSpeed": 19.71488184038034,
+    "visibility": 8.219639536167064,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 26.496540998324072,
+    "rainfall": 0,
+    "aqi": 345.43295535064317,
+    "windSpeed": 7.131281329262813,
+    "visibility": 3.4352415006226362,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 27.51177271215184,
+    "rainfall": 0,
+    "aqi": 222.75198442097977,
+    "windSpeed": 10.571186447397158,
+    "visibility": 7.676185971223054,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 29.041564544314415,
+    "rainfall": 0,
+    "aqi": 93.69612211032488,
+    "windSpeed": 12.054808726585966,
+    "visibility": 4.596747562697825,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 34.62567509901132,
+    "rainfall": 0,
+    "aqi": 111.65271384641892,
+    "windSpeed": 22.421607213118996,
+    "visibility": 7.555836065355791,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 26.42313623450335,
+    "rainfall": 0,
+    "aqi": 327.30359422119403,
+    "windSpeed": 15.564629737124122,
+    "visibility": 3.1844618860177594,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 30.268241133567365,
+    "rainfall": 0,
+    "aqi": 156.09509160163574,
+    "windSpeed": 9.702169020096205,
+    "visibility": 3.649695703566932,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 39.15927584302719,
+    "rainfall": 0,
+    "aqi": 328.30625980532386,
+    "windSpeed": 21.784916311540382,
+    "visibility": 3.7782421233641603,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 38.61666147382166,
+    "rainfall": 0,
+    "aqi": 229.25333330671336,
+    "windSpeed": 19.765992546969812,
+    "visibility": 6.075861601540009,
+    "timestamp": "2026-03-22T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 30.426460010516323,
+    "rainfall": 47.17875319214534,
+    "aqi": 311.3230765978708,
+    "windSpeed": 17.673660640498035,
+    "visibility": 3.060374607001009,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 29.22550701389921,
+    "rainfall": 20.085161893594638,
+    "aqi": 95.5119930764871,
+    "windSpeed": 17.691428386146846,
+    "visibility": 7.416649020975955,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 26.78391230290281,
+    "rainfall": 0,
+    "aqi": 211.16949070592045,
+    "windSpeed": 13.26058372030003,
+    "visibility": 2.21917906112089,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 37.804918951909784,
+    "rainfall": 0,
+    "aqi": 145.97345985973652,
+    "windSpeed": 14.370840823825738,
+    "visibility": 8.762705797327785,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 37.240174111109354,
+    "rainfall": 0,
+    "aqi": 223.8678168396963,
+    "windSpeed": 12.628946813514306,
+    "visibility": 2.4836787972995147,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 32.923588598378664,
+    "rainfall": 0,
+    "aqi": 209.12831361837644,
+    "windSpeed": 8.62998380634632,
+    "visibility": 5.839211297776394,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 31.065179467098208,
+    "rainfall": 0,
+    "aqi": 299.94408699026565,
+    "windSpeed": 13.315871248006221,
+    "visibility": 4.170195558254727,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 29.890308057364578,
+    "rainfall": 0,
+    "aqi": 279.9480625420053,
+    "windSpeed": 23.83386247992459,
+    "visibility": 5.7893736824726965,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 34.44800286623661,
+    "rainfall": 0,
+    "aqi": 132.1017788036857,
+    "windSpeed": 24.001890298111515,
+    "visibility": 2.0061766692205882,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 34.81718062773595,
+    "rainfall": 0,
+    "aqi": 290.94703209560373,
+    "windSpeed": 20.43522644945385,
+    "visibility": 8.965369071545942,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 38.44800769555217,
+    "rainfall": 0,
+    "aqi": 315.41199030126836,
+    "windSpeed": 10.80673345673472,
+    "visibility": 8.926078280631923,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 26.17092463216493,
+    "rainfall": 0,
+    "aqi": 120.07164540719005,
+    "windSpeed": 13.954532954921213,
+    "visibility": 4.782692016548044,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 28.5136849832577,
+    "rainfall": 0,
+    "aqi": 301.1533195256717,
+    "windSpeed": 15.987235067780809,
+    "visibility": 4.242954362967454,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 25.004813304016984,
+    "rainfall": 8.63954987755574,
+    "aqi": 75.23032040129458,
+    "windSpeed": 11.62971836893066,
+    "visibility": 2.176249761018944,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 32.207274733773595,
+    "rainfall": 0,
+    "aqi": 118.64915154907025,
+    "windSpeed": 23.668866138597483,
+    "visibility": 9.469415885972882,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 34.75139556188395,
+    "rainfall": 0,
+    "aqi": 256.87342772429054,
+    "windSpeed": 8.235976123155325,
+    "visibility": 4.182375774571275,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 35.24276137608616,
+    "rainfall": 3.8151644913809513,
+    "aqi": 187.56630615530952,
+    "windSpeed": 10.983336367546105,
+    "visibility": 5.859407672509137,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 32.76596373606745,
+    "rainfall": 0,
+    "aqi": 154.03596736382855,
+    "windSpeed": 20.277634201475124,
+    "visibility": 9.066207384062404,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 33.306303631869106,
+    "rainfall": 0,
+    "aqi": 169.89089949522355,
+    "windSpeed": 19.118325097135358,
+    "visibility": 2.9076631663414627,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 25.846831778589145,
+    "rainfall": 0,
+    "aqi": 202.2657473986199,
+    "windSpeed": 9.946415000694673,
+    "visibility": 5.389519523017189,
+    "timestamp": "2026-03-21T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 39.42991551051677,
+    "rainfall": 0,
+    "aqi": 151.073598335013,
+    "windSpeed": 12.98461726471691,
+    "visibility": 3.050829953228293,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 35.9642195460636,
+    "rainfall": 0,
+    "aqi": 62.28093440089171,
+    "windSpeed": 22.00523542256418,
+    "visibility": 3.6504858993085243,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 36.575754570948604,
+    "rainfall": 43.742358146445135,
+    "aqi": 158.20533426820094,
+    "windSpeed": 18.097856380314386,
+    "visibility": 5.9411072952088055,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 33.1631749699847,
+    "rainfall": 17.15073621925105,
+    "aqi": 262.1185014886088,
+    "windSpeed": 6.437618589574017,
+    "visibility": 8.672405670909757,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 28.515542718450448,
+    "rainfall": 1.9564679753062197,
+    "aqi": 85.56830856371471,
+    "windSpeed": 5.597391314654523,
+    "visibility": 7.203988788541457,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 29.803233636942323,
+    "rainfall": 0,
+    "aqi": 321.64412035768606,
+    "windSpeed": 12.486718120366834,
+    "visibility": 7.4437847963241754,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 32.086050275467926,
+    "rainfall": 0,
+    "aqi": 273.3357750013555,
+    "windSpeed": 17.89011531963165,
+    "visibility": 7.6079489332402055,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 38.150858227026184,
+    "rainfall": 49.687128025093955,
+    "aqi": 206.4962989207147,
+    "windSpeed": 17.952959222119294,
+    "visibility": 2.49781389778858,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 39.93420061776628,
+    "rainfall": 0,
+    "aqi": 262.1146020318655,
+    "windSpeed": 20.135929806309925,
+    "visibility": 5.221232487472786,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 38.90724354382014,
+    "rainfall": 0,
+    "aqi": 65.14225480865498,
+    "windSpeed": 18.603819334138088,
+    "visibility": 9.411194145269253,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 32.92400497156092,
+    "rainfall": 0,
+    "aqi": 296.458321971006,
+    "windSpeed": 21.041067556865155,
+    "visibility": 7.662308373216801,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 33.01655043402424,
+    "rainfall": 0,
+    "aqi": 292.4406095627787,
+    "windSpeed": 22.95460618250572,
+    "visibility": 4.85424751191349,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 37.33459130878943,
+    "rainfall": 0,
+    "aqi": 273.50893687570016,
+    "windSpeed": 12.20788080856909,
+    "visibility": 7.792404516186977,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 37.73547572269295,
+    "rainfall": 0,
+    "aqi": 287.3850620692764,
+    "windSpeed": 22.04671007564022,
+    "visibility": 3.000292959176022,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 38.221198513047014,
+    "rainfall": 0,
+    "aqi": 254.15617720130777,
+    "windSpeed": 16.751940393562236,
+    "visibility": 5.385505035698332,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 27.487224603184764,
+    "rainfall": 12.465953169306655,
+    "aqi": 55.2704979382751,
+    "windSpeed": 10.801039803073053,
+    "visibility": 2.8749125814199967,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 31.089079759516483,
+    "rainfall": 0,
+    "aqi": 50.676576448833835,
+    "windSpeed": 19.058212402890415,
+    "visibility": 5.439764847759507,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 33.61968691674312,
+    "rainfall": 0,
+    "aqi": 73.06335337898382,
+    "windSpeed": 24.361177672513264,
+    "visibility": 6.18895662749742,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 27.74358934987201,
+    "rainfall": 41.74009580171719,
+    "aqi": 293.9532386595404,
+    "windSpeed": 5.996410933766052,
+    "visibility": 5.239131671550636,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 29.426040283389327,
+    "rainfall": 0,
+    "aqi": 248.6745671435586,
+    "windSpeed": 6.80699072579904,
+    "visibility": 5.325167495053407,
+    "timestamp": "2026-03-20T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 33.50240753286819,
+    "rainfall": 4.672231380558845,
+    "aqi": 80.28782119535789,
+    "windSpeed": 9.962070451009089,
+    "visibility": 9.525944555401413,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 37.42708046401913,
+    "rainfall": 0,
+    "aqi": 105.24180104189607,
+    "windSpeed": 7.837777798807566,
+    "visibility": 8.659764164794632,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 25.95926859230968,
+    "rainfall": 0,
+    "aqi": 238.1175524523607,
+    "windSpeed": 15.436557693652105,
+    "visibility": 8.36099713524438,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 37.00980814352875,
+    "rainfall": 0,
+    "aqi": 86.68656082414432,
+    "windSpeed": 16.382250290646073,
+    "visibility": 4.094249539008528,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 31.64272065218057,
+    "rainfall": 0,
+    "aqi": 152.68757236527597,
+    "windSpeed": 16.331117780121012,
+    "visibility": 3.620259245638712,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 28.96209814566054,
+    "rainfall": 17.98745987307425,
+    "aqi": 139.47942049578378,
+    "windSpeed": 14.12841890573402,
+    "visibility": 8.459841691714848,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 38.13699189356802,
+    "rainfall": 0,
+    "aqi": 280.39225879513265,
+    "windSpeed": 12.436003134797357,
+    "visibility": 6.884877234334949,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 37.704934075003266,
+    "rainfall": 47.37589256189602,
+    "aqi": 204.70490075232337,
+    "windSpeed": 13.245868972713012,
+    "visibility": 5.292288321387272,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 26.960721846871287,
+    "rainfall": 11.088359296073246,
+    "aqi": 92.33709465250821,
+    "windSpeed": 13.801868970510704,
+    "visibility": 5.564812804041322,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 33.63170904517193,
+    "rainfall": 0,
+    "aqi": 134.2062870880848,
+    "windSpeed": 5.426611674859161,
+    "visibility": 8.247382660460143,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 29.593210609029224,
+    "rainfall": 0,
+    "aqi": 156.20547554361087,
+    "windSpeed": 5.105548146020631,
+    "visibility": 8.845427993521206,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 31.604545714028248,
+    "rainfall": 0,
+    "aqi": 233.74467741780182,
+    "windSpeed": 24.40609716859344,
+    "visibility": 2.8680071808740593,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 34.40774130057011,
+    "rainfall": 20.520360452072637,
+    "aqi": 183.34901658958015,
+    "windSpeed": 10.34256544635172,
+    "visibility": 3.758252195716402,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 30.7975216872242,
+    "rainfall": 0,
+    "aqi": 263.2065530755754,
+    "windSpeed": 21.33707494921037,
+    "visibility": 7.394633085730375,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 36.1031289452139,
+    "rainfall": 0,
+    "aqi": 51.56207688956995,
+    "windSpeed": 9.59362345161618,
+    "visibility": 4.406074015071461,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 39.471671884786474,
+    "rainfall": 34.677753556637846,
+    "aqi": 202.7765840209903,
+    "windSpeed": 22.159886141008222,
+    "visibility": 6.973604943092553,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 35.180250843304805,
+    "rainfall": 0.5300000996075971,
+    "aqi": 279.3335619840734,
+    "windSpeed": 21.348235758688116,
+    "visibility": 3.9825240877048262,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 28.012792822109503,
+    "rainfall": 0,
+    "aqi": 323.2662282911972,
+    "windSpeed": 20.614875300696397,
+    "visibility": 5.491113905883715,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 27.580389709046578,
+    "rainfall": 0,
+    "aqi": 186.1454613891864,
+    "windSpeed": 6.676629156857898,
+    "visibility": 5.04069423707522,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 28.12681780241785,
+    "rainfall": 0,
+    "aqi": 104.7167604411386,
+    "windSpeed": 16.871481249835032,
+    "visibility": 2.7054325932374805,
+    "timestamp": "2026-03-19T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 37.49839364661671,
+    "rainfall": 0,
+    "aqi": 152.72052432122564,
+    "windSpeed": 8.084604669338503,
+    "visibility": 8.708935404016573,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 28.028608726284205,
+    "rainfall": 0,
+    "aqi": 226.8684225640363,
+    "windSpeed": 6.037704224022802,
+    "visibility": 5.295281361200653,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 39.572303196449326,
+    "rainfall": 47.40014072786144,
+    "aqi": 202.0765852117558,
+    "windSpeed": 12.660141153940753,
+    "visibility": 6.005168333231499,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 25.170582911078235,
+    "rainfall": 0,
+    "aqi": 123.4946359219317,
+    "windSpeed": 23.120401177154992,
+    "visibility": 5.134868372572791,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 34.21266755977001,
+    "rainfall": 0,
+    "aqi": 80.284039859658,
+    "windSpeed": 20.27379369555025,
+    "visibility": 5.336845102044148,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 33.688537308886175,
+    "rainfall": 34.8247160863841,
+    "aqi": 237.05056416845466,
+    "windSpeed": 8.880985048509,
+    "visibility": 6.8470432354703785,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 30.70179485694404,
+    "rainfall": 0,
+    "aqi": 168.4846537738696,
+    "windSpeed": 21.66149788008994,
+    "visibility": 5.367379053014858,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 39.07281990157767,
+    "rainfall": 0,
+    "aqi": 178.00638631442737,
+    "windSpeed": 12.78968199437382,
+    "visibility": 9.132361332683766,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 30.644758771215578,
+    "rainfall": 0,
+    "aqi": 221.2427342922305,
+    "windSpeed": 5.242570679045624,
+    "visibility": 6.273302173314528,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 37.934309852571005,
+    "rainfall": 0,
+    "aqi": 72.49934400006754,
+    "windSpeed": 17.237722891119848,
+    "visibility": 3.0561501322681686,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 28.504348145549113,
+    "rainfall": 25.95700845337988,
+    "aqi": 165.64430801210136,
+    "windSpeed": 19.48668330111917,
+    "visibility": 7.856727006513651,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 32.37964659900836,
+    "rainfall": 0,
+    "aqi": 336.2627928680783,
+    "windSpeed": 24.557879852723428,
+    "visibility": 4.966949764188632,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 39.924303326345296,
+    "rainfall": 46.6040367579531,
+    "aqi": 262.2148264648571,
+    "windSpeed": 14.942181452987766,
+    "visibility": 3.6861524568096087,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 25.7693492406283,
+    "rainfall": 0,
+    "aqi": 184.56929742830067,
+    "windSpeed": 24.07406972272314,
+    "visibility": 7.115649362150235,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 39.90814804543564,
+    "rainfall": 0,
+    "aqi": 266.35557479044144,
+    "windSpeed": 18.890087806224756,
+    "visibility": 6.925007420784777,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 28.7068880936131,
+    "rainfall": 0,
+    "aqi": 197.0135281646599,
+    "windSpeed": 10.688806236415473,
+    "visibility": 3.77275757900453,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 31.966256545109456,
+    "rainfall": 0,
+    "aqi": 63.012939286624594,
+    "windSpeed": 14.76198867712979,
+    "visibility": 6.824766090298786,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 29.613729697967017,
+    "rainfall": 39.08053915419036,
+    "aqi": 182.25834206332235,
+    "windSpeed": 9.547885684196018,
+    "visibility": 5.7904216782446,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 32.739907107761674,
+    "rainfall": 0,
+    "aqi": 108.29604342753791,
+    "windSpeed": 7.341332703103944,
+    "visibility": 7.466746817013817,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 25.512993455666038,
+    "rainfall": 34.46776550110424,
+    "aqi": 225.07300073669322,
+    "windSpeed": 23.60926817338992,
+    "visibility": 5.617364915420225,
+    "timestamp": "2026-03-18T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 36.315196209595356,
+    "rainfall": 0,
+    "aqi": 270.75025368356864,
+    "windSpeed": 22.56654109028332,
+    "visibility": 6.128711553696322,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 33.41361925467835,
+    "rainfall": 0,
+    "aqi": 286.56059126685057,
+    "windSpeed": 5.9128690840115405,
+    "visibility": 5.951292738356942,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 31.99940862136198,
+    "rainfall": 24.680149031939823,
+    "aqi": 122.91962962550569,
+    "windSpeed": 15.949134344826517,
+    "visibility": 6.207910734126676,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 29.25288425347518,
+    "rainfall": 0,
+    "aqi": 84.27921406403917,
+    "windSpeed": 14.286945931991042,
+    "visibility": 4.062202611512246,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 35.47157202086988,
+    "rainfall": 0,
+    "aqi": 292.10820840239296,
+    "windSpeed": 6.11361877118862,
+    "visibility": 3.768264741836724,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 31.099004215277585,
+    "rainfall": 0,
+    "aqi": 259.55535483000597,
+    "windSpeed": 6.046433579646555,
+    "visibility": 8.329473932240488,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 29.05250581056466,
+    "rainfall": 0,
+    "aqi": 249.31655584550896,
+    "windSpeed": 13.171656021819915,
+    "visibility": 2.024382361361887,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 26.2754484844097,
+    "rainfall": 34.0534472908525,
+    "aqi": 70.74139438043703,
+    "windSpeed": 22.08467577841492,
+    "visibility": 5.614942285027203,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 35.57681223494204,
+    "rainfall": 0,
+    "aqi": 50.45275739911246,
+    "windSpeed": 12.51237755656334,
+    "visibility": 2.2594837249475788,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 31.826914154686442,
+    "rainfall": 0,
+    "aqi": 203.02643679844033,
+    "windSpeed": 21.491360458384975,
+    "visibility": 6.162993269809935,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 33.29357062234148,
+    "rainfall": 0,
+    "aqi": 92.96355554853946,
+    "windSpeed": 23.74720920335596,
+    "visibility": 3.3182524496246835,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 27.645450073746584,
+    "rainfall": 0,
+    "aqi": 307.3383475328523,
+    "windSpeed": 21.56472032242476,
+    "visibility": 5.299419783229652,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 29.08636504910689,
+    "rainfall": 45.60134043131663,
+    "aqi": 149.34703531950794,
+    "windSpeed": 10.482993084690847,
+    "visibility": 6.5992722577238645,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 27.473629707507676,
+    "rainfall": 0,
+    "aqi": 287.6873666223828,
+    "windSpeed": 23.41712648346615,
+    "visibility": 8.601188608712329,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 36.600532514131146,
+    "rainfall": 0,
+    "aqi": 254.7045204504614,
+    "windSpeed": 20.12003486993217,
+    "visibility": 9.389510643928512,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 27.722994709823105,
+    "rainfall": 0,
+    "aqi": 227.61745646698722,
+    "windSpeed": 7.13497930166219,
+    "visibility": 2.5024677397263524,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 37.67946152344137,
+    "rainfall": 0,
+    "aqi": 222.11714731778977,
+    "windSpeed": 17.09848644098979,
+    "visibility": 4.591946940679694,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 39.00483277971044,
+    "rainfall": 0,
+    "aqi": 219.00471009096483,
+    "windSpeed": 13.416375381896962,
+    "visibility": 2.16720962089091,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 29.75489899355973,
+    "rainfall": 0,
+    "aqi": 303.1665527600525,
+    "windSpeed": 6.258675223371495,
+    "visibility": 2.023058685153904,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 36.3176950546566,
+    "rainfall": 0,
+    "aqi": 136.06665051504604,
+    "windSpeed": 21.697244481706655,
+    "visibility": 9.957937607296953,
+    "timestamp": "2026-03-17T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 35.11319314732975,
+    "rainfall": 0,
+    "aqi": 95.50037289580223,
+    "windSpeed": 15.937188905673597,
+    "visibility": 7.222770728373286,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 26.13561612905888,
+    "rainfall": 0,
+    "aqi": 260.8159385860573,
+    "windSpeed": 17.854088120243627,
+    "visibility": 9.647161378884856,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 31.616189113177775,
+    "rainfall": 6.854960393278664,
+    "aqi": 255.53153853520365,
+    "windSpeed": 8.668243014826217,
+    "visibility": 2.3535895749199742,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 35.76129538506183,
+    "rainfall": 0,
+    "aqi": 278.86907341561084,
+    "windSpeed": 24.16887850250327,
+    "visibility": 5.72411752204432,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 28.927436630040283,
+    "rainfall": 0,
+    "aqi": 136.37224998402013,
+    "windSpeed": 19.39001757140977,
+    "visibility": 8.28401586628271,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 25.37402236325366,
+    "rainfall": 0,
+    "aqi": 182.6911270157886,
+    "windSpeed": 7.5283311609429715,
+    "visibility": 8.593813428286577,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 32.017387482026834,
+    "rainfall": 0,
+    "aqi": 242.92754903121474,
+    "windSpeed": 21.12046954087766,
+    "visibility": 5.772021361662388,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 38.500592079088996,
+    "rainfall": 21.102741307843477,
+    "aqi": 116.67623415750354,
+    "windSpeed": 7.07210375387509,
+    "visibility": 8.838725062883844,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 29.898596246160913,
+    "rainfall": 0,
+    "aqi": 278.1642090296991,
+    "windSpeed": 18.05787151905264,
+    "visibility": 6.433873088874455,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 29.470295430291543,
+    "rainfall": 0,
+    "aqi": 223.98230861754595,
+    "windSpeed": 11.71637276473264,
+    "visibility": 4.44634491122474,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 27.638301635488112,
+    "rainfall": 0,
+    "aqi": 171.1544681029289,
+    "windSpeed": 9.035101918491076,
+    "visibility": 4.005210000761762,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 31.54403944597921,
+    "rainfall": 9.468243646144291,
+    "aqi": 246.76840794651386,
+    "windSpeed": 10.65269678627541,
+    "visibility": 3.668788771446497,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 26.720337348816834,
+    "rainfall": 0,
+    "aqi": 127.32021173274934,
+    "windSpeed": 15.930972734492968,
+    "visibility": 9.174899278338009,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 38.49442517549691,
+    "rainfall": 6.166302913200128,
+    "aqi": 182.4285810672772,
+    "windSpeed": 5.477965851795461,
+    "visibility": 4.4904062475265025,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 38.02083478955701,
+    "rainfall": 0,
+    "aqi": 227.45435136955078,
+    "windSpeed": 11.692950181040377,
+    "visibility": 6.521473237917391,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 37.93917495163119,
+    "rainfall": 1.4193784497800954,
+    "aqi": 185.924611854798,
+    "windSpeed": 19.171986001301576,
+    "visibility": 8.423152964823645,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 35.14672309470908,
+    "rainfall": 0,
+    "aqi": 328.5086575921078,
+    "windSpeed": 23.09032149651332,
+    "visibility": 8.71573721152049,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 32.35938841202556,
+    "rainfall": 0,
+    "aqi": 75.83325252513677,
+    "windSpeed": 19.498200086862415,
+    "visibility": 6.905026627431768,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 25.212345395528395,
+    "rainfall": 0,
+    "aqi": 144.39263439758648,
+    "windSpeed": 17.423769837852753,
+    "visibility": 7.449934370581792,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 38.928514473375316,
+    "rainfall": 0,
+    "aqi": 89.510880296254,
+    "windSpeed": 13.600887753759805,
+    "visibility": 6.3383243287026545,
+    "timestamp": "2026-03-16T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 28.27818481631851,
+    "rainfall": 0,
+    "aqi": 292.4882089177393,
+    "windSpeed": 15.374287223827196,
+    "visibility": 5.8851329924806475,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 30.483310779472486,
+    "rainfall": 0,
+    "aqi": 119.62006098000944,
+    "windSpeed": 18.834175885848996,
+    "visibility": 3.663231608488541,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 27.59386895525714,
+    "rainfall": 0,
+    "aqi": 78.8988239812864,
+    "windSpeed": 19.13813880998219,
+    "visibility": 4.132168681888224,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 28.14052481201169,
+    "rainfall": 0,
+    "aqi": 309.1176552050193,
+    "windSpeed": 6.257285897740483,
+    "visibility": 2.325675753429735,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 37.56093287006546,
+    "rainfall": 30.09878205876272,
+    "aqi": 120.25975886546479,
+    "windSpeed": 10.938243697649877,
+    "visibility": 9.27682745150989,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 32.36039790288242,
+    "rainfall": 48.56651016149852,
+    "aqi": 307.71583259772484,
+    "windSpeed": 17.491235105578614,
+    "visibility": 9.677137082946489,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 25.76629174424608,
+    "rainfall": 25.023755397588342,
+    "aqi": 117.24588726599356,
+    "windSpeed": 22.276142578307095,
+    "visibility": 3.427497662343617,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 34.79305865020788,
+    "rainfall": 0,
+    "aqi": 119.08977053313328,
+    "windSpeed": 14.722547185227022,
+    "visibility": 9.568809228800063,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 26.888553526788208,
+    "rainfall": 0,
+    "aqi": 249.86101435302527,
+    "windSpeed": 21.50571808391288,
+    "visibility": 3.720878894803585,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 35.88908797256762,
+    "rainfall": 0,
+    "aqi": 233.12614542229852,
+    "windSpeed": 17.987888367322746,
+    "visibility": 7.925194292811177,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 26.606498366293387,
+    "rainfall": 0,
+    "aqi": 192.35662651229785,
+    "windSpeed": 9.857113176515394,
+    "visibility": 9.170006402318714,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 34.387142328289926,
+    "rainfall": 0,
+    "aqi": 120.90066078484017,
+    "windSpeed": 22.75247910913521,
+    "visibility": 2.1219042404247173,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 34.205206319083956,
+    "rainfall": 0,
+    "aqi": 100.42661952646861,
+    "windSpeed": 22.792718452330647,
+    "visibility": 7.849308444494367,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 32.44713751281332,
+    "rainfall": 25.900960716991626,
+    "aqi": 144.8374412702787,
+    "windSpeed": 17.846175284333377,
+    "visibility": 5.918355501730247,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 26.158073769002176,
+    "rainfall": 0,
+    "aqi": 208.93800670143247,
+    "windSpeed": 7.17660844326669,
+    "visibility": 5.277220683673804,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 27.78873985124114,
+    "rainfall": 0,
+    "aqi": 134.98171774040574,
+    "windSpeed": 15.893434679268474,
+    "visibility": 8.933347814578873,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 37.66973177809636,
+    "rainfall": 0,
+    "aqi": 214.31539896846604,
+    "windSpeed": 24.24473463772831,
+    "visibility": 7.669585999321088,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 39.32106980577979,
+    "rainfall": 0,
+    "aqi": 58.90698209021667,
+    "windSpeed": 11.947005032757051,
+    "visibility": 5.698272107687657,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 32.54384818054723,
+    "rainfall": 0,
+    "aqi": 255.51729420893835,
+    "windSpeed": 22.6332984741428,
+    "visibility": 9.60039209524194,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 33.99842776634804,
+    "rainfall": 9.812976829770104,
+    "aqi": 348.6403422712283,
+    "windSpeed": 20.626494930344638,
+    "visibility": 6.52494969263196,
+    "timestamp": "2026-03-15T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 26.94982553987571,
+    "rainfall": 0,
+    "aqi": 214.47332660530097,
+    "windSpeed": 10.997752909322962,
+    "visibility": 5.977805852287927,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 35.157013452916,
+    "rainfall": 0,
+    "aqi": 169.19442856457238,
+    "windSpeed": 5.6712470907722645,
+    "visibility": 8.014933278253153,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 39.04261258850932,
+    "rainfall": 0,
+    "aqi": 329.38160025339675,
+    "windSpeed": 16.973354139340703,
+    "visibility": 6.048759425681663,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 32.437712667532494,
+    "rainfall": 47.1366255658582,
+    "aqi": 338.3660777243317,
+    "windSpeed": 15.890885704545719,
+    "visibility": 6.058884607971411,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 34.81851519840179,
+    "rainfall": 1.7208718091334618,
+    "aqi": 127.82484952794144,
+    "windSpeed": 14.927855038156519,
+    "visibility": 6.024516812326096,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 32.40161390185,
+    "rainfall": 22.279827707481214,
+    "aqi": 51.14961923821257,
+    "windSpeed": 17.29835733315757,
+    "visibility": 9.76320590818083,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 25.79627169693603,
+    "rainfall": 0,
+    "aqi": 268.54954413976304,
+    "windSpeed": 21.90373893522386,
+    "visibility": 4.296887560294683,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 25.791755218740743,
+    "rainfall": 0,
+    "aqi": 279.02511773406115,
+    "windSpeed": 16.04467857456676,
+    "visibility": 9.439712167285021,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 27.35503189837825,
+    "rainfall": 0,
+    "aqi": 205.8248073648618,
+    "windSpeed": 12.482228547393571,
+    "visibility": 6.78028990243876,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 38.45700943789118,
+    "rainfall": 0,
+    "aqi": 303.72972375324423,
+    "windSpeed": 5.895928066912863,
+    "visibility": 6.842242543281481,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 31.253085699173937,
+    "rainfall": 0,
+    "aqi": 139.7596609935927,
+    "windSpeed": 19.84331815975924,
+    "visibility": 8.231001101477736,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 27.801671623881674,
+    "rainfall": 21.723482793584946,
+    "aqi": 114.98383486147587,
+    "windSpeed": 12.293815660187315,
+    "visibility": 8.362328178126246,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 27.763366805810897,
+    "rainfall": 37.450821803396,
+    "aqi": 226.6298290019696,
+    "windSpeed": 23.570286675453126,
+    "visibility": 7.901239186009448,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 29.427073785952658,
+    "rainfall": 8.955428697481382,
+    "aqi": 103.55949345968861,
+    "windSpeed": 23.276035576158325,
+    "visibility": 4.726639341942533,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 33.5259935574698,
+    "rainfall": 0,
+    "aqi": 130.1684359683846,
+    "windSpeed": 21.930035883158805,
+    "visibility": 3.716606774184106,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 34.740133195039775,
+    "rainfall": 0,
+    "aqi": 237.83030672754026,
+    "windSpeed": 22.140515958679305,
+    "visibility": 7.066747520305677,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 31.35649755536306,
+    "rainfall": 0,
+    "aqi": 214.72916898153852,
+    "windSpeed": 7.528808473783668,
+    "visibility": 4.259401219003008,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 30.506225008855587,
+    "rainfall": 0,
+    "aqi": 240.8928795729844,
+    "windSpeed": 6.379512607353353,
+    "visibility": 3.5199713853443324,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 26.663057637031248,
+    "rainfall": 0,
+    "aqi": 228.33947760826513,
+    "windSpeed": 8.140783448047287,
+    "visibility": 7.183158001881807,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 27.27398336255871,
+    "rainfall": 0,
+    "aqi": 192.98895918450933,
+    "windSpeed": 20.68628781466263,
+    "visibility": 7.228306850457251,
+    "timestamp": "2026-03-14T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 35.2405323176367,
+    "rainfall": 0,
+    "aqi": 101.51755569025059,
+    "windSpeed": 10.270079762278378,
+    "visibility": 3.7552436018605224,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 32.05565454814643,
+    "rainfall": 0,
+    "aqi": 106.83121135605754,
+    "windSpeed": 13.833155199367573,
+    "visibility": 3.3228056253601608,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 35.08007375627092,
+    "rainfall": 0,
+    "aqi": 333.57879488228673,
+    "windSpeed": 13.033457042340926,
+    "visibility": 7.4945804811342445,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 32.12476198065291,
+    "rainfall": 0,
+    "aqi": 166.06117729421038,
+    "windSpeed": 12.742442251437751,
+    "visibility": 8.424830248749101,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 31.84552285590663,
+    "rainfall": 0,
+    "aqi": 136.8601290379508,
+    "windSpeed": 8.26297375847886,
+    "visibility": 7.180642866021845,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 30.63520477281906,
+    "rainfall": 8.387664066547906,
+    "aqi": 146.24197648517912,
+    "windSpeed": 17.08905192488087,
+    "visibility": 2.7023390490347463,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 39.24427419809499,
+    "rainfall": 0,
+    "aqi": 212.05709078166564,
+    "windSpeed": 19.340102571910286,
+    "visibility": 4.342194047626586,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 34.13471591609891,
+    "rainfall": 0,
+    "aqi": 311.49149779402677,
+    "windSpeed": 21.42768969422434,
+    "visibility": 6.83358344356027,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 33.25062292729862,
+    "rainfall": 0,
+    "aqi": 276.3893448294197,
+    "windSpeed": 14.811883167888325,
+    "visibility": 7.6602659582957635,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 37.77867866656213,
+    "rainfall": 0,
+    "aqi": 183.19578107843202,
+    "windSpeed": 24.5880099741752,
+    "visibility": 5.888456312918384,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 30.25941110506749,
+    "rainfall": 0,
+    "aqi": 91.16065044008971,
+    "windSpeed": 19.50087507108005,
+    "visibility": 9.145147793556607,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 33.57916142321447,
+    "rainfall": 0,
+    "aqi": 190.10602713049752,
+    "windSpeed": 16.940025070241415,
+    "visibility": 2.425269017927823,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 29.295637952203904,
+    "rainfall": 0,
+    "aqi": 348.82414367262,
+    "windSpeed": 16.4737903244733,
+    "visibility": 7.443410642709523,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 26.394466462997034,
+    "rainfall": 0.2867099967551745,
+    "aqi": 233.7846218843922,
+    "windSpeed": 11.96944419842572,
+    "visibility": 7.889213061268116,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 36.29007962018865,
+    "rainfall": 27.836741179033897,
+    "aqi": 226.94253825755976,
+    "windSpeed": 13.315034975138843,
+    "visibility": 8.80146326577159,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 38.75353696832638,
+    "rainfall": 0,
+    "aqi": 156.32713117806486,
+    "windSpeed": 15.286592197324659,
+    "visibility": 3.055917713250979,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 31.77696374558809,
+    "rainfall": 0,
+    "aqi": 82.65988230058898,
+    "windSpeed": 9.899425980816293,
+    "visibility": 9.570500221703897,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 37.1914877526147,
+    "rainfall": 0,
+    "aqi": 59.16775723990628,
+    "windSpeed": 22.591712807346607,
+    "visibility": 5.1596484329434205,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 32.11266754193212,
+    "rainfall": 0,
+    "aqi": 163.41526712274919,
+    "windSpeed": 24.79430255937508,
+    "visibility": 2.7205529607091936,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 34.806721748685256,
+    "rainfall": 0,
+    "aqi": 113.10417527555687,
+    "windSpeed": 19.669346186752,
+    "visibility": 4.18108443856025,
+    "timestamp": "2026-03-13T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 26.33875473056614,
+    "rainfall": 0,
+    "aqi": 298.27098155360466,
+    "windSpeed": 22.259488149628513,
+    "visibility": 6.312051321557146,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 26.81804112670007,
+    "rainfall": 20.550254811481594,
+    "aqi": 83.05445765185479,
+    "windSpeed": 23.2685842815135,
+    "visibility": 6.6675494936979725,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 29.030284082462632,
+    "rainfall": 0,
+    "aqi": 188.89708570170248,
+    "windSpeed": 22.17484143286147,
+    "visibility": 2.42622912285065,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 28.040138894643775,
+    "rainfall": 0,
+    "aqi": 143.45525820512228,
+    "windSpeed": 15.658068279811172,
+    "visibility": 6.73357612143173,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 29.644846285096236,
+    "rainfall": 0,
+    "aqi": 63.99127196290493,
+    "windSpeed": 7.4124789283482695,
+    "visibility": 6.728706845094914,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 39.07695259127043,
+    "rainfall": 0,
+    "aqi": 107.21267576339781,
+    "windSpeed": 23.48695100365022,
+    "visibility": 3.9998978508957617,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 36.429128760898955,
+    "rainfall": 0,
+    "aqi": 149.0805085366721,
+    "windSpeed": 7.218058787843913,
+    "visibility": 6.56316783356262,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 39.404257207903655,
+    "rainfall": 0,
+    "aqi": 332.7232891994212,
+    "windSpeed": 16.535504465686568,
+    "visibility": 5.147745156139965,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 29.553380124297107,
+    "rainfall": 3.6519810410721165,
+    "aqi": 245.63429338311207,
+    "windSpeed": 20.584603429077394,
+    "visibility": 5.546824518430219,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 37.61709400439497,
+    "rainfall": 0,
+    "aqi": 114.42207553508423,
+    "windSpeed": 10.245443277127633,
+    "visibility": 4.577383189064085,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 29.416992698666352,
+    "rainfall": 0,
+    "aqi": 243.05295456246972,
+    "windSpeed": 12.82942043867665,
+    "visibility": 8.247049359339714,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 25.595269198316405,
+    "rainfall": 21.981153153036047,
+    "aqi": 312.4962581630184,
+    "windSpeed": 21.872063805430287,
+    "visibility": 4.05170658857781,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 28.0021851888796,
+    "rainfall": 0,
+    "aqi": 176.19428488369977,
+    "windSpeed": 12.260600573666824,
+    "visibility": 2.0320646400605824,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 28.791738953714468,
+    "rainfall": 0,
+    "aqi": 110.17082536201764,
+    "windSpeed": 9.399288313796337,
+    "visibility": 9.888524977400982,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 38.01424819677224,
+    "rainfall": 5.547565663218467,
+    "aqi": 148.6798499986005,
+    "windSpeed": 21.91620007930766,
+    "visibility": 2.8081994855230796,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 32.0199752686249,
+    "rainfall": 0,
+    "aqi": 343.01008129263226,
+    "windSpeed": 24.151201751334384,
+    "visibility": 6.962191171506534,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 27.872912922880406,
+    "rainfall": 46.76001152309745,
+    "aqi": 66.97767199870653,
+    "windSpeed": 24.085314472874707,
+    "visibility": 4.502442993724365,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 37.7744719270984,
+    "rainfall": 0,
+    "aqi": 299.9399548319293,
+    "windSpeed": 19.95195817182646,
+    "visibility": 8.27867854666685,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 35.58211880085956,
+    "rainfall": 0,
+    "aqi": 160.3847626013955,
+    "windSpeed": 10.37989284344896,
+    "visibility": 4.659743082604772,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 36.66348905401206,
+    "rainfall": 0,
+    "aqi": 147.05963901317787,
+    "windSpeed": 15.805903631307103,
+    "visibility": 8.50788024351885,
+    "timestamp": "2026-03-12T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 31.808573329857612,
+    "rainfall": 0,
+    "aqi": 349.2642628777443,
+    "windSpeed": 13.66740545531294,
+    "visibility": 8.057038607033425,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 33.469256011256526,
+    "rainfall": 0,
+    "aqi": 112.95749193774532,
+    "windSpeed": 7.3590007354343845,
+    "visibility": 9.953578788948871,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 27.66914093807643,
+    "rainfall": 1.9538930589677928,
+    "aqi": 235.00627591736253,
+    "windSpeed": 10.664658242586293,
+    "visibility": 2.9930169977077554,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 32.32359141852575,
+    "rainfall": 0,
+    "aqi": 308.0310149060794,
+    "windSpeed": 15.61157917171717,
+    "visibility": 7.282231282262602,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 26.87114690337307,
+    "rainfall": 0,
+    "aqi": 161.01724622237003,
+    "windSpeed": 5.904882321968294,
+    "visibility": 5.799435782214964,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 38.166780900555835,
+    "rainfall": 0,
+    "aqi": 186.3268343739287,
+    "windSpeed": 21.985432336750392,
+    "visibility": 5.2729909625023375,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 39.83102494466309,
+    "rainfall": 46.525596965071344,
+    "aqi": 282.546551319347,
+    "windSpeed": 22.090508812277605,
+    "visibility": 6.887218955302796,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 29.89823236999581,
+    "rainfall": 0,
+    "aqi": 111.66473275778614,
+    "windSpeed": 9.173370601272236,
+    "visibility": 8.008909947201444,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 36.590946658607095,
+    "rainfall": 0,
+    "aqi": 118.80572508347238,
+    "windSpeed": 7.389319820796509,
+    "visibility": 5.875171036036651,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 32.704169540011485,
+    "rainfall": 0,
+    "aqi": 335.3741993239852,
+    "windSpeed": 7.6072987408046,
+    "visibility": 9.543592586154567,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 26.42900010815182,
+    "rainfall": 24.94407720042289,
+    "aqi": 233.9014123906828,
+    "windSpeed": 20.651178760996743,
+    "visibility": 4.046905454694619,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 33.86788070016418,
+    "rainfall": 0,
+    "aqi": 64.67914143004765,
+    "windSpeed": 9.775111983101512,
+    "visibility": 9.891355324947655,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 36.85022123840723,
+    "rainfall": 0,
+    "aqi": 120.5624438287492,
+    "windSpeed": 18.053215767316196,
+    "visibility": 2.2064853821878128,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 34.95026415471261,
+    "rainfall": 41.39845150611695,
+    "aqi": 284.3359759690012,
+    "windSpeed": 8.249428845776743,
+    "visibility": 7.586589204698747,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 37.88123235467563,
+    "rainfall": 0,
+    "aqi": 161.0377658553702,
+    "windSpeed": 13.795829592598157,
+    "visibility": 7.7666240590409235,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 29.539584257213743,
+    "rainfall": 0,
+    "aqi": 302.05914664003126,
+    "windSpeed": 14.061457318726301,
+    "visibility": 8.653731763372942,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 36.76341313750699,
+    "rainfall": 0,
+    "aqi": 76.61312023292098,
+    "windSpeed": 10.739679994573645,
+    "visibility": 2.7928917654353693,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 35.47809401748322,
+    "rainfall": 0,
+    "aqi": 62.791169230950985,
+    "windSpeed": 7.3795382629637585,
+    "visibility": 7.703430779708032,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 37.82503863393373,
+    "rainfall": 0,
+    "aqi": 192.69654683475346,
+    "windSpeed": 13.4718610652553,
+    "visibility": 5.00855680534751,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 34.359653430577794,
+    "rainfall": 0,
+    "aqi": 136.42826859170975,
+    "windSpeed": 19.57012333754765,
+    "visibility": 8.249866680263711,
+    "timestamp": "2026-03-11T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 37.495282875053555,
+    "rainfall": 0,
+    "aqi": 343.67353781497974,
+    "windSpeed": 14.202015206428612,
+    "visibility": 4.373904960806582,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 32.46936247637,
+    "rainfall": 26.77304832476799,
+    "aqi": 81.35585487515638,
+    "windSpeed": 18.010519047771435,
+    "visibility": 4.872246651447947,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 27.801429312779145,
+    "rainfall": 0,
+    "aqi": 345.73707815113414,
+    "windSpeed": 21.275882565572765,
+    "visibility": 2.416437273312882,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 37.36162912098134,
+    "rainfall": 0,
+    "aqi": 69.44522885404314,
+    "windSpeed": 11.464454888072733,
+    "visibility": 2.3776743942371645,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 36.75701007746303,
+    "rainfall": 0,
+    "aqi": 63.350843965830016,
+    "windSpeed": 23.934229885386273,
+    "visibility": 4.49828978928643,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 34.343605881063596,
+    "rainfall": 0,
+    "aqi": 259.62750966455667,
+    "windSpeed": 22.298861164054685,
+    "visibility": 9.668840031753021,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 34.47873092588224,
+    "rainfall": 0,
+    "aqi": 92.40891267871592,
+    "windSpeed": 14.28327071155656,
+    "visibility": 8.804731887346964,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 33.51480527497087,
+    "rainfall": 0,
+    "aqi": 306.81687258879276,
+    "windSpeed": 24.909408864507515,
+    "visibility": 7.34925323300746,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 32.52530723982638,
+    "rainfall": 0,
+    "aqi": 278.5458045966269,
+    "windSpeed": 16.14376052496936,
+    "visibility": 7.820282904819521,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 28.971408247180868,
+    "rainfall": 7.645670209293332,
+    "aqi": 330.6810575466185,
+    "windSpeed": 11.291162000285055,
+    "visibility": 4.842656038497864,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 28.763130826065215,
+    "rainfall": 0,
+    "aqi": 312.16394876566306,
+    "windSpeed": 7.837727591222077,
+    "visibility": 3.145189163291578,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 33.93110083839984,
+    "rainfall": 0,
+    "aqi": 315.34382824658496,
+    "windSpeed": 22.1378336913717,
+    "visibility": 4.465171306667614,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 32.327381805729345,
+    "rainfall": 0,
+    "aqi": 347.61054198340474,
+    "windSpeed": 24.06210995944572,
+    "visibility": 6.868321976653023,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 30.15134200359046,
+    "rainfall": 33.93752090551104,
+    "aqi": 93.5048710101347,
+    "windSpeed": 22.631903676561123,
+    "visibility": 9.653356731983784,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 35.510371296358876,
+    "rainfall": 0,
+    "aqi": 252.71838911392973,
+    "windSpeed": 15.90561680870267,
+    "visibility": 2.375559014959645,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 39.20035206097321,
+    "rainfall": 0,
+    "aqi": 204.43742379114227,
+    "windSpeed": 13.498393164742941,
+    "visibility": 7.541563295438239,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 30.89769433164143,
+    "rainfall": 0,
+    "aqi": 54.20974116847099,
+    "windSpeed": 22.46937839483948,
+    "visibility": 3.8311099059076543,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 27.035291994106363,
+    "rainfall": 0,
+    "aqi": 332.67109678801125,
+    "windSpeed": 15.014984882490591,
+    "visibility": 8.907765075727793,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 33.06628554541459,
+    "rainfall": 0,
+    "aqi": 321.6553855502455,
+    "windSpeed": 13.50265927581181,
+    "visibility": 5.238550114095434,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 35.46531926320574,
+    "rainfall": 46.01895533476442,
+    "aqi": 118.56066010152082,
+    "windSpeed": 6.908974139496706,
+    "visibility": 3.1713352485908732,
+    "timestamp": "2026-03-10T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 30.37493837079692,
+    "rainfall": 0,
+    "aqi": 105.60014491750141,
+    "windSpeed": 23.48366986215664,
+    "visibility": 6.495806024301045,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 29.54077812519685,
+    "rainfall": 0,
+    "aqi": 288.9009434182368,
+    "windSpeed": 17.56749720613168,
+    "visibility": 2.6845154721250157,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 37.89625479700729,
+    "rainfall": 0,
+    "aqi": 253.91200307761665,
+    "windSpeed": 20.045911694648133,
+    "visibility": 7.417607083131699,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 33.71083851005436,
+    "rainfall": 0,
+    "aqi": 185.70292137185726,
+    "windSpeed": 23.518871789748633,
+    "visibility": 9.812374499522171,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 35.84747316664152,
+    "rainfall": 40.46777237506976,
+    "aqi": 343.81081491917996,
+    "windSpeed": 16.96304243663649,
+    "visibility": 4.126955179609997,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 32.77693870620771,
+    "rainfall": 25.20604080324099,
+    "aqi": 285.0086681330144,
+    "windSpeed": 9.466792202167444,
+    "visibility": 4.879405668045942,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 39.25370321349547,
+    "rainfall": 0,
+    "aqi": 345.4024881878287,
+    "windSpeed": 5.797311607671802,
+    "visibility": 2.2015504253274116,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 34.22616881222001,
+    "rainfall": 0,
+    "aqi": 113.75681987393556,
+    "windSpeed": 19.142493733149827,
+    "visibility": 4.3594888016046625,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 33.1240273848562,
+    "rainfall": 0,
+    "aqi": 85.19189673501397,
+    "windSpeed": 21.465260024552663,
+    "visibility": 4.903822482257041,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 31.843890511966485,
+    "rainfall": 0,
+    "aqi": 255.806311568424,
+    "windSpeed": 13.972732018819972,
+    "visibility": 8.289816930897961,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 26.783813205062014,
+    "rainfall": 0,
+    "aqi": 70.37700340314717,
+    "windSpeed": 18.70556564175889,
+    "visibility": 7.183800801356737,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 33.52913964859095,
+    "rainfall": 25.96548783864714,
+    "aqi": 201.57098465312805,
+    "windSpeed": 23.4007309203237,
+    "visibility": 3.4575035737839137,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 25.415167972874386,
+    "rainfall": 0,
+    "aqi": 160.66446668992438,
+    "windSpeed": 15.721352798105602,
+    "visibility": 5.6618906351924245,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 35.577375799640336,
+    "rainfall": 0,
+    "aqi": 281.42199120546974,
+    "windSpeed": 5.613601961669641,
+    "visibility": 3.6666745839942134,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 27.25808932463382,
+    "rainfall": 0,
+    "aqi": 102.79467405085148,
+    "windSpeed": 11.159423563723747,
+    "visibility": 6.716802556680975,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 36.88919736174018,
+    "rainfall": 0,
+    "aqi": 74.20788800678389,
+    "windSpeed": 18.844115510182128,
+    "visibility": 3.157843115062011,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 26.401442614111144,
+    "rainfall": 0,
+    "aqi": 175.1061122737717,
+    "windSpeed": 16.588930945698316,
+    "visibility": 5.960227490127375,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 39.95805755472264,
+    "rainfall": 0,
+    "aqi": 209.43693508823398,
+    "windSpeed": 8.8650372118525,
+    "visibility": 9.041315407133629,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 25.742993106963084,
+    "rainfall": 0,
+    "aqi": 88.71944110315226,
+    "windSpeed": 22.686857931826925,
+    "visibility": 4.1045384414928385,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 29.85531142829156,
+    "rainfall": 0,
+    "aqi": 320.2402176605528,
+    "windSpeed": 15.259165742798185,
+    "visibility": 7.9385813316795755,
+    "timestamp": "2026-03-09T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 32.89432537663299,
+    "rainfall": 0,
+    "aqi": 233.59995488901708,
+    "windSpeed": 7.403281966960171,
+    "visibility": 9.880680554573667,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 33.7199749861556,
+    "rainfall": 0,
+    "aqi": 311.0010573101211,
+    "windSpeed": 17.534286257778483,
+    "visibility": 6.111291875238342,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 39.415499870494514,
+    "rainfall": 0,
+    "aqi": 299.5646134976196,
+    "windSpeed": 23.136945949449796,
+    "visibility": 6.769477502654645,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 33.68252139016647,
+    "rainfall": 0,
+    "aqi": 160.34967576457967,
+    "windSpeed": 5.6358505740155795,
+    "visibility": 2.945885927610485,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 38.916743369011854,
+    "rainfall": 25.914851279626927,
+    "aqi": 254.4458680829702,
+    "windSpeed": 17.445332310970322,
+    "visibility": 4.000482981017772,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 29.56907076791592,
+    "rainfall": 0,
+    "aqi": 258.46484438801474,
+    "windSpeed": 13.962539945986595,
+    "visibility": 8.555529663763304,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 31.54492044452013,
+    "rainfall": 0,
+    "aqi": 287.0559089437811,
+    "windSpeed": 20.401916645209482,
+    "visibility": 6.164042988144033,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 26.378654257503506,
+    "rainfall": 0,
+    "aqi": 325.8395042144483,
+    "windSpeed": 5.073224361820987,
+    "visibility": 9.542960266850391,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 38.36532429090588,
+    "rainfall": 0,
+    "aqi": 234.57883381927633,
+    "windSpeed": 15.727491757595025,
+    "visibility": 5.438541869727851,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 30.8973971280257,
+    "rainfall": 0,
+    "aqi": 261.45927142885796,
+    "windSpeed": 11.334695787406673,
+    "visibility": 2.2351673948934963,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 32.05851408811602,
+    "rainfall": 0,
+    "aqi": 243.7429933474095,
+    "windSpeed": 7.962569915864193,
+    "visibility": 4.9111260087194815,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 34.936505826295665,
+    "rainfall": 24.066276208964165,
+    "aqi": 84.31441416147857,
+    "windSpeed": 24.465993934796785,
+    "visibility": 3.8725699169785717,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 34.59108301528301,
+    "rainfall": 0,
+    "aqi": 263.9769205511627,
+    "windSpeed": 18.23902205576497,
+    "visibility": 2.402987317650215,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 27.99476042723954,
+    "rainfall": 0,
+    "aqi": 92.02614447245054,
+    "windSpeed": 12.41109909388673,
+    "visibility": 8.251890856993846,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 31.33745368790037,
+    "rainfall": 0,
+    "aqi": 181.45764749917336,
+    "windSpeed": 15.724837443475446,
+    "visibility": 6.728620939813112,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 29.144380115964694,
+    "rainfall": 0,
+    "aqi": 85.82159749534006,
+    "windSpeed": 11.288879813191382,
+    "visibility": 5.086882755766457,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 37.63315778090651,
+    "rainfall": 0,
+    "aqi": 223.1160093853512,
+    "windSpeed": 20.00604494484812,
+    "visibility": 6.39588915930997,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 34.400364622728866,
+    "rainfall": 18.846327571371134,
+    "aqi": 243.27000619515715,
+    "windSpeed": 17.438436407978607,
+    "visibility": 8.251596405508321,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 37.10626053845187,
+    "rainfall": 0,
+    "aqi": 282.4030926968975,
+    "windSpeed": 8.9803445884895,
+    "visibility": 2.8598002758945125,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 36.08025296885827,
+    "rainfall": 0,
+    "aqi": 339.2040288430584,
+    "windSpeed": 24.885023905527,
+    "visibility": 7.20964496949135,
+    "timestamp": "2026-03-08T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 30.911513991787924,
+    "rainfall": 0,
+    "aqi": 325.9339573200619,
+    "windSpeed": 5.447887903073836,
+    "visibility": 7.178749365575026,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 34.11062222554264,
+    "rainfall": 31.06805040372279,
+    "aqi": 199.40891382550592,
+    "windSpeed": 9.81368986840328,
+    "visibility": 7.352385437654618,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 32.83788157946309,
+    "rainfall": 0,
+    "aqi": 60.5716547793627,
+    "windSpeed": 12.479086508351935,
+    "visibility": 3.97835484869689,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 30.44136745033931,
+    "rainfall": 0,
+    "aqi": 171.3305520215437,
+    "windSpeed": 16.185729376759056,
+    "visibility": 6.38956584343868,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 31.137161412542202,
+    "rainfall": 38.09471296626734,
+    "aqi": 55.56634078930727,
+    "windSpeed": 11.185497125579227,
+    "visibility": 2.192408851279424,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 39.786098983098896,
+    "rainfall": 0,
+    "aqi": 68.97385513075113,
+    "windSpeed": 5.38993486981501,
+    "visibility": 7.713163026134385,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 29.277864064868588,
+    "rainfall": 0,
+    "aqi": 288.9258020946183,
+    "windSpeed": 19.596997104320018,
+    "visibility": 7.386645188235827,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 28.48339232137357,
+    "rainfall": 0,
+    "aqi": 175.58011076869423,
+    "windSpeed": 14.751770797550643,
+    "visibility": 7.131761267033086,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 25.04523785872672,
+    "rainfall": 0,
+    "aqi": 90.63146978055059,
+    "windSpeed": 5.19956171148066,
+    "visibility": 2.4756204452369435,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 27.492693340730842,
+    "rainfall": 0,
+    "aqi": 312.9329230209698,
+    "windSpeed": 14.433379671692004,
+    "visibility": 8.145827637214804,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 34.187186589958,
+    "rainfall": 0,
+    "aqi": 230.62455043074232,
+    "windSpeed": 18.97345379911416,
+    "visibility": 5.079126635422574,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 35.440695973059924,
+    "rainfall": 0,
+    "aqi": 344.41221555810705,
+    "windSpeed": 23.366826491886833,
+    "visibility": 6.034978453968376,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 31.51324752610941,
+    "rainfall": 0,
+    "aqi": 139.56373322086392,
+    "windSpeed": 11.501432091239256,
+    "visibility": 2.6780682016420663,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 33.30787383462467,
+    "rainfall": 0,
+    "aqi": 157.94702273934303,
+    "windSpeed": 24.929339788773483,
+    "visibility": 2.114885928696941,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 36.737738621227784,
+    "rainfall": 0,
+    "aqi": 51.710927044888464,
+    "windSpeed": 8.012359310326698,
+    "visibility": 2.280680831527345,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 36.24139649109037,
+    "rainfall": 0,
+    "aqi": 152.81697121878383,
+    "windSpeed": 7.238703438966603,
+    "visibility": 9.440372128226926,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 26.714344508567734,
+    "rainfall": 0,
+    "aqi": 217.51285195011607,
+    "windSpeed": 19.61498606131954,
+    "visibility": 8.361612314148624,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 36.84977006215556,
+    "rainfall": 0,
+    "aqi": 214.47091980084983,
+    "windSpeed": 11.629709305139443,
+    "visibility": 9.235085156411994,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 34.674780008298875,
+    "rainfall": 0,
+    "aqi": 72.84037155297267,
+    "windSpeed": 7.461010651062194,
+    "visibility": 8.937632393042842,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 27.54628166760794,
+    "rainfall": 9.675292899631692,
+    "aqi": 80.58029311524444,
+    "windSpeed": 5.424192389334612,
+    "visibility": 4.507431325638011,
+    "timestamp": "2026-03-07T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 26.923427210493916,
+    "rainfall": 0,
+    "aqi": 155.95548375880418,
+    "windSpeed": 16.846346189414714,
+    "visibility": 3.2554568271822504,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 33.24270582152434,
+    "rainfall": 0,
+    "aqi": 230.57882306178408,
+    "windSpeed": 20.911551962380052,
+    "visibility": 4.492370718906065,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 36.072304048191626,
+    "rainfall": 0,
+    "aqi": 183.37832835914404,
+    "windSpeed": 8.374461606835606,
+    "visibility": 6.970230839878459,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 28.09796482941612,
+    "rainfall": 0,
+    "aqi": 268.72392780527406,
+    "windSpeed": 20.39796051148241,
+    "visibility": 8.694666540344505,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 26.74367199798925,
+    "rainfall": 6.226341742589803,
+    "aqi": 102.25869372604618,
+    "windSpeed": 12.175038835843424,
+    "visibility": 2.0372814778009136,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 25.97632996489997,
+    "rainfall": 33.39374233878113,
+    "aqi": 127.54052060742649,
+    "windSpeed": 6.135253667186911,
+    "visibility": 9.610647913640197,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 37.2775116692171,
+    "rainfall": 0,
+    "aqi": 111.63797189604111,
+    "windSpeed": 16.87551458064156,
+    "visibility": 7.591727370273631,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 28.649206305821004,
+    "rainfall": 0,
+    "aqi": 323.3617890132941,
+    "windSpeed": 23.23431362811766,
+    "visibility": 9.576435038134058,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 27.19905598958008,
+    "rainfall": 26.912042463154286,
+    "aqi": 157.99442639383682,
+    "windSpeed": 10.860055973163462,
+    "visibility": 7.680383335336838,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 39.00836241778667,
+    "rainfall": 0,
+    "aqi": 318.40477180975796,
+    "windSpeed": 24.43625082139739,
+    "visibility": 9.974268656909715,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 29.278254210307022,
+    "rainfall": 0,
+    "aqi": 241.86789834324856,
+    "windSpeed": 20.66231201650035,
+    "visibility": 5.413471247934515,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 32.6721390874041,
+    "rainfall": 0,
+    "aqi": 269.4847113040691,
+    "windSpeed": 13.680223714296925,
+    "visibility": 5.59907308028054,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 26.05991969454602,
+    "rainfall": 0,
+    "aqi": 219.4989301039956,
+    "windSpeed": 5.220488405518142,
+    "visibility": 9.32886073353688,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 31.557628268457766,
+    "rainfall": 0,
+    "aqi": 178.354920404511,
+    "windSpeed": 20.946517204303955,
+    "visibility": 6.714930741042156,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 32.05801153466332,
+    "rainfall": 0,
+    "aqi": 53.30324198080858,
+    "windSpeed": 9.257314439596867,
+    "visibility": 9.472585542836296,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 37.079954310051285,
+    "rainfall": 0,
+    "aqi": 175.21911305779986,
+    "windSpeed": 20.076542230188835,
+    "visibility": 6.743344537585884,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 39.67769088198951,
+    "rainfall": 0,
+    "aqi": 235.47483413874644,
+    "windSpeed": 20.566939107594774,
+    "visibility": 3.405554257308161,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 36.2926724576928,
+    "rainfall": 48.14119292454851,
+    "aqi": 253.18171407744532,
+    "windSpeed": 21.84873711972534,
+    "visibility": 9.735144187903206,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 36.62626546528165,
+    "rainfall": 0,
+    "aqi": 82.77837450467004,
+    "windSpeed": 13.11086514536699,
+    "visibility": 2.919319515146272,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 31.803600294439462,
+    "rainfall": 0,
+    "aqi": 198.6801808158701,
+    "windSpeed": 20.137547511573466,
+    "visibility": 3.174189189677456,
+    "timestamp": "2026-03-06T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_001",
+    "temperature": 30.490073667960402,
+    "rainfall": 0,
+    "aqi": 217.950669436558,
+    "windSpeed": 8.291221702292123,
+    "visibility": 6.396989978001786,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_002",
+    "temperature": 26.160466149603593,
+    "rainfall": 40.962208587849766,
+    "aqi": 306.5642714065657,
+    "windSpeed": 9.17177973492449,
+    "visibility": 3.1108463258313925,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_003",
+    "temperature": 30.808324444521322,
+    "rainfall": 0,
+    "aqi": 265.1071860459024,
+    "windSpeed": 10.492143416318985,
+    "visibility": 3.8859832793791043,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_004",
+    "temperature": 35.666222209876196,
+    "rainfall": 0,
+    "aqi": 306.09168989515666,
+    "windSpeed": 24.99150962202343,
+    "visibility": 7.922163579357809,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_005",
+    "temperature": 34.631081043421986,
+    "rainfall": 0,
+    "aqi": 300.5110603863764,
+    "windSpeed": 7.015622397702241,
+    "visibility": 3.5762281360821646,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_006",
+    "temperature": 38.551138283041105,
+    "rainfall": 0,
+    "aqi": 169.9731394606129,
+    "windSpeed": 7.859091424798139,
+    "visibility": 6.659585803329795,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_007",
+    "temperature": 33.7042960132574,
+    "rainfall": 0,
+    "aqi": 207.1047581982087,
+    "windSpeed": 15.506700005942458,
+    "visibility": 2.1228513848356094,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_008",
+    "temperature": 37.94457021268884,
+    "rainfall": 0,
+    "aqi": 99.9340021116154,
+    "windSpeed": 10.307480032192565,
+    "visibility": 3.532419534313881,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_009",
+    "temperature": 31.489502984237312,
+    "rainfall": 0,
+    "aqi": 194.6776089162156,
+    "windSpeed": 20.536812548784358,
+    "visibility": 5.953219187137744,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_010",
+    "temperature": 26.393237148387943,
+    "rainfall": 0,
+    "aqi": 157.7086914791256,
+    "windSpeed": 22.9159945178833,
+    "visibility": 8.650121131793998,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_011",
+    "temperature": 25.893125971510695,
+    "rainfall": 0,
+    "aqi": 109.98218678482667,
+    "windSpeed": 7.6098839934905715,
+    "visibility": 8.607623820061288,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_012",
+    "temperature": 30.434635906827488,
+    "rainfall": 0,
+    "aqi": 112.90913300373055,
+    "windSpeed": 7.187692169391928,
+    "visibility": 4.928999379573538,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_013",
+    "temperature": 31.07510533704975,
+    "rainfall": 0,
+    "aqi": 233.72912682603982,
+    "windSpeed": 13.92764012847608,
+    "visibility": 5.03209072177915,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_014",
+    "temperature": 38.13600948621272,
+    "rainfall": 0,
+    "aqi": 254.24238730895254,
+    "windSpeed": 14.745069817591476,
+    "visibility": 8.337308020310525,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_015",
+    "temperature": 31.546354623097443,
+    "rainfall": 0,
+    "aqi": 276.92253978150643,
+    "windSpeed": 21.933542907109036,
+    "visibility": 6.898176691057918,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_016",
+    "temperature": 25.296187194164208,
+    "rainfall": 0,
+    "aqi": 60.1276548293576,
+    "windSpeed": 5.81881238460185,
+    "visibility": 8.178999689948055,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_017",
+    "temperature": 31.659915585133554,
+    "rainfall": 0,
+    "aqi": 137.08921633993003,
+    "windSpeed": 15.39294490552285,
+    "visibility": 5.6650244968614665,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_018",
+    "temperature": 26.937293084197368,
+    "rainfall": 36.22565562411435,
+    "aqi": 210.57329779974864,
+    "windSpeed": 11.406753980474424,
+    "visibility": 2.494913894018925,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_019",
+    "temperature": 25.064636521066806,
+    "rainfall": 0,
+    "aqi": 254.626228071115,
+    "windSpeed": 17.570850050328957,
+    "visibility": 6.260428928304995,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  },
+  {
+    "zoneId": "zone_020",
+    "temperature": 30.59756183443733,
+    "rainfall": 0,
+    "aqi": 168.5191158285417,
+    "windSpeed": 17.323516451932107,
+    "visibility": 2.922130484559382,
+    "timestamp": "2026-03-05T14:14:36.084Z",
+    "source": "real"
+  }
+]

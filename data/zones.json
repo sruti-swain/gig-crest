@@ -1,0 +1,242 @@
+[
+  {
+    "id": "zone_001",
+    "name": "Bangalore Zone 1",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 19.048884512730552,
+      "lng": 72.9267296123845
+    },
+    "radius": 6.512257775086766,
+    "riskLevel": "high",
+    "basePremiumFactor": 1.4718327806980824
+  },
+  {
+    "id": "zone_002",
+    "name": "Delhi Zone 2",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 19.030535444798456,
+      "lng": 72.85241036754586
+    },
+    "radius": 8.106956979054784,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.1540253373860572
+  },
+  {
+    "id": "zone_003",
+    "name": "Delhi Zone 3",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 19.124795535512447,
+      "lng": 72.8976963155511
+    },
+    "radius": 5.460831149332442,
+    "riskLevel": "high",
+    "basePremiumFactor": 1.0586521515913625
+  },
+  {
+    "id": "zone_004",
+    "name": "Bangalore Zone 4",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 19.042147918890944,
+      "lng": 72.85642650062026
+    },
+    "radius": 7.245029846530983,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.1202691879699227
+  },
+  {
+    "id": "zone_005",
+    "name": "Mumbai Zone 5",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.087999697793066,
+      "lng": 72.91427568951819
+    },
+    "radius": 8.287113852785339,
+    "riskLevel": "low",
+    "basePremiumFactor": 1.2412669132414273
+  },
+  {
+    "id": "zone_006",
+    "name": "Bangalore Zone 6",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 19.036103340728328,
+      "lng": 72.88086270677826
+    },
+    "radius": 9.416057137171137,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.3394024582414623
+  },
+  {
+    "id": "zone_007",
+    "name": "Bangalore Zone 7",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 19.07987550506885,
+      "lng": 72.8423162527513
+    },
+    "radius": 6.3076871171709445,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.0387350235741697
+  },
+  {
+    "id": "zone_008",
+    "name": "Bangalore Zone 8",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 19.028530525035304,
+      "lng": 72.84312230435849
+    },
+    "radius": 5.403570075488544,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.407480309421516
+  },
+  {
+    "id": "zone_009",
+    "name": "Delhi Zone 9",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 19.033790438510792,
+      "lng": 72.88912396726637
+    },
+    "radius": 7.55767229489439,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.0814359431287843
+  },
+  {
+    "id": "zone_010",
+    "name": "Mumbai Zone 10",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.042703429377703,
+      "lng": 72.91798862371559
+    },
+    "radius": 7.866021143521431,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.4535591706814253
+  },
+  {
+    "id": "zone_011",
+    "name": "Bangalore Zone 11",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 19.113942086031766,
+      "lng": 72.83428228276756
+    },
+    "radius": 7.561240458525901,
+    "riskLevel": "low",
+    "basePremiumFactor": 1.2057296655294971
+  },
+  {
+    "id": "zone_012",
+    "name": "Mumbai Zone 12",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.10702247254662,
+      "lng": 72.85122405231965
+    },
+    "radius": 7.718316601280111,
+    "riskLevel": "high",
+    "basePremiumFactor": 1.343211279302523
+  },
+  {
+    "id": "zone_013",
+    "name": "Bangalore Zone 13",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 19.073044182736155,
+      "lng": 72.89596077453479
+    },
+    "radius": 9.71523775150864,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.4488471795791764
+  },
+  {
+    "id": "zone_014",
+    "name": "Delhi Zone 14",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 19.066841805538452,
+      "lng": 72.83792919154506
+    },
+    "radius": 9.468319173206702,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.3660881715805013
+  },
+  {
+    "id": "zone_015",
+    "name": "Mumbai Zone 15",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.070793936885206,
+      "lng": 72.83222196832288
+    },
+    "radius": 9.399831664551558,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.0601916227721646
+  },
+  {
+    "id": "zone_016",
+    "name": "Bangalore Zone 16",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 19.041645920489685,
+      "lng": 72.91861716719447
+    },
+    "radius": 6.942406673810446,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.108675554906137
+  },
+  {
+    "id": "zone_017",
+    "name": "Mumbai Zone 17",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.03191241619672,
+      "lng": 72.89845028013244
+    },
+    "radius": 9.769999566364593,
+    "riskLevel": "high",
+    "basePremiumFactor": 1.2876195632063756
+  },
+  {
+    "id": "zone_018",
+    "name": "Mumbai Zone 18",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.078556375711663,
+      "lng": 72.9226989311548
+    },
+    "radius": 7.036451758340831,
+    "riskLevel": "low",
+    "basePremiumFactor": 1.3149412469145882
+  },
+  {
+    "id": "zone_019",
+    "name": "Delhi Zone 19",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 19.05884117469814,
+      "lng": 72.8789061482356
+    },
+    "radius": 7.919750375570679,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.1103608128323874
+  },
+  {
+    "id": "zone_020",
+    "name": "Delhi Zone 20",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 19.060989332511873,
+      "lng": 72.89017586205104
+    },
+    "radius": 6.6928289423614125,
+    "riskLevel": "medium",
+    "basePremiumFactor": 1.393905117591289
+  }
+]
